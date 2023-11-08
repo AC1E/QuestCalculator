@@ -20,8 +20,8 @@ namespace TestProject.Features
     [System.CodeDom.Compiler.GeneratedCodeAttribute("TechTalk.SpecFlow", "3.9.0.0")]
     [System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [NUnit.Framework.TestFixtureAttribute()]
-    [NUnit.Framework.DescriptionAttribute("Calculator")]
-    public partial class CalculatorFeature
+    [NUnit.Framework.DescriptionAttribute("Peform Operation On Calculator")]
+    public partial class PeformOperationOnCalculatorFeature
     {
         
         private TechTalk.SpecFlow.ITestRunner testRunner;
@@ -35,11 +35,7 @@ namespace TestProject.Features
         public virtual void FeatureSetup()
         {
             testRunner = TechTalk.SpecFlow.TestRunnerManager.GetTestRunner();
-            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features", "Calculator", @"![Calculator](https://specflow.org/wp-content/uploads/2020/09/calculator.png)
-Simple calculator for adding **two** numbers
-
-Link to a feature: [Calculator](TestProject/Features/Calculator.feature)
-***Further read***: **[Learn more about how to generate Living Documentation](https://docs.specflow.org/projects/specflow-livingdoc/en/latest/LivingDocGenerator/Generating-Documentation.html)**", ProgrammingLanguage.CSharp, featureTags);
+            TechTalk.SpecFlow.FeatureInfo featureInfo = new TechTalk.SpecFlow.FeatureInfo(new System.Globalization.CultureInfo("en-US"), "Features", "Peform Operation On Calculator", null, ProgrammingLanguage.CSharp, featureTags);
             testRunner.OnFeatureStart(featureInfo);
         }
         
@@ -78,16 +74,27 @@ Link to a feature: [Calculator](TestProject/Features/Calculator.feature)
         }
         
         [NUnit.Framework.TestAttribute()]
-        [NUnit.Framework.DescriptionAttribute("Calcualtor operation")]
-        [NUnit.Framework.CategoryAttribute("tag1")]
-        public void CalcualtorOperation()
+        [NUnit.Framework.DescriptionAttribute("Check for result for operation")]
+        [NUnit.Framework.CategoryAttribute("outline")]
+        [NUnit.Framework.TestCaseAttribute("Standard", "12", "999", "1030", null)]
+        [NUnit.Framework.TestCaseAttribute("Scientific", "12", "999", "361", null)]
+        public void CheckForResultForOperation(string specificMode, string numb1, string numb2, string numb4, string[] exampleTags)
         {
-            string[] tagsOfScenario = new string[] {
-                    "tag1"};
+            string[] @__tags = new string[] {
+                    "outline"};
+            if ((exampleTags != null))
+            {
+                @__tags = System.Linq.Enumerable.ToArray(System.Linq.Enumerable.Concat(@__tags, exampleTags));
+            }
+            string[] tagsOfScenario = @__tags;
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
-            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Calcualtor operation", null, tagsOfScenario, argumentsOfScenario, featureTags);
-#line 9
-this.ScenarioInitialize(scenarioInfo);
+            argumentsOfScenario.Add("SpecificMode", specificMode);
+            argumentsOfScenario.Add("Numb1", numb1);
+            argumentsOfScenario.Add("numb2", numb2);
+            argumentsOfScenario.Add("numb4", numb4);
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Check for result for operation", null, tagsOfScenario, argumentsOfScenario, featureTags);
+#line 6
+    this.ScenarioInitialize(scenarioInfo);
 #line hidden
             if ((TagHelper.ContainsIgnoreTag(tagsOfScenario) || TagHelper.ContainsIgnoreTag(featureTags)))
             {
@@ -96,8 +103,26 @@ this.ScenarioInitialize(scenarioInfo);
             else
             {
                 this.ScenarioStart();
+#line 7
+ testRunner.Given("Open the Calculator Application", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line hidden
+#line 8
+ testRunner.And(string.Format(": Select the Mode \'{0}\'", specificMode), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
+#line 9
+ testRunner.Then(string.Format(": I Enter \'{0}\' \'{1}\' and perform add operation", numb1, numb2), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+#line hidden
 #line 10
- testRunner.Given("launch the application", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+ testRunner.And(": Then I Click M+", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
+#line 11
+ testRunner.And(": I Enter on \'<numb3>\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
+#line 12
+ testRunner.And(": Use square root if its scientific", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
+#line 13
+ testRunner.And(string.Format(": The Result should be \'{0}\'", numb4), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
             }
             this.ScenarioCleanup();

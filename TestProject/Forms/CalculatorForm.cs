@@ -21,8 +21,8 @@ namespace TestProject.Forms
         private ZButtons ButtonMPlus  => new ZButtons(SearchCriteria.ByAutomationId("125"), "Number");
         private ZButtons ButtonEqual  => new ZButtons(SearchCriteria.ByAutomationId("121"), "Number");
         private ZButtons ButtonSquare => new ZButtons(SearchCriteria.ByAutomationId("111"), "Number");
+        private ZButtons ClearButton => new ZButtons(SearchCriteria.ByAutomationId("81"), "Number");
 
-        
         public void EnterPlus()
         {
             ButtonPlus.Click();
@@ -39,22 +39,28 @@ namespace TestProject.Forms
         {
             ButtonSquare.Click();
         }
-
+        public void EnterClear()
+        {
+            ClearButton.Click();
+        }
         public ZButtons getButton(string number)
         {
             return new ZButtons(SearchCriteria.ByAutomationId($"13{number}"), "number");
+
         }
+
         public void EnterNumber(string number)
-        {
-            number.Select(c => Char.ToString(c))
-                  .ToList()
-                  .ForEach(value =>
-                  {
-                       ZButtons button = getButton(value);
-                       button.Click();
-                  });
-        }
+            {
+                for (int i = 0; i < number.Length; i++)
+                {
+                    string value = Char.ToString(number[i]);
+                    ZButtons button = getButton(value);
+                    button.Click();
+                }
+            }
+
        
+
         public void EnterMode(string Mode)
         {
              ZMenu clickView = new ZMenu(SearchCriteria.ByText("View"), "Option");
@@ -68,7 +74,7 @@ namespace TestProject.Forms
 
                ZLabels appLabel = new ZLabels(SearchCriteria.ByAutomationId("158"), "lsbel");
                 var ObtainedResult = appLabel.GetLabelText();
-                Console.WriteLine(ObtainedResult);
+                
                 bool result = false;
                 if (ObtainedResult != null)
                 {

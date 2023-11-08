@@ -1,11 +1,21 @@
-﻿Feature: Calculator
-![Calculator](https://specflow.org/wp-content/uploads/2020/09/calculator.png)
-Simple calculator for adding **two** numbers
+﻿
+Feature: Peform Operation On Calculator
 
-Link to a feature: [Calculator](TestProject/Features/Calculator.feature)
-***Further read***: **[Learn more about how to generate Living Documentation](https://docs.specflow.org/projects/specflow-livingdoc/en/latest/LivingDocGenerator/Generating-Documentation.html)**
 
-@tag1
-Scenario: Calcualtor operation
-	Given launch the application 
+@outline
+    Scenario Outline: Check for result for operation
+	Given  Open the Calculator Application 
+	And   : Select the Mode '<SpecificMode>'
+	Then  : I Enter '<Numb1>' '<numb2>' and perform add operation
+	And   : Then I Click M+
+	And   : I Enter on '<numb3>'
+	And   : Use square root if its scientific 
+	And   : The Result should be '<numb4>'
+
 	
+
+	Examples: 
+				| SpecificMode | Numb1 | numb2 | numb4 | numb3
+				| Standard     | 12    | 999   | 1030  | 19
+				| Scientific   | 12    | 999   | 361   | 19
+			
