@@ -12,7 +12,7 @@ namespace Pilot_FrameWork.Items
         public static void LaunchApplication(string appName)
         {
             string Path = ConfigurationManager.AppSettings["AppPath"];
-            application = Application.Launch(Path);
+             application = Application.Launch(Path);
         }
 
         public static ZWindow GetApplicationWindow(string title = "")
