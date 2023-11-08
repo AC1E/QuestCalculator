@@ -22,13 +22,11 @@ namespace Pilot_FrameWork.Utils.Configuration
             configFileLines = File.ReadAllLines(configFilePath); 
             var app1Path = GetPath(appname); 
             var app1WindowName = GetWindowName(appname); 
-            Console.WriteLine($"Application 1 Path: {app1Path}");
-            Console.WriteLine($"Application 1 Window Name: {app1WindowName}");
             return app1Path;   
         }
         static string GetPath(string appName)
         {
-            Console.WriteLine($" abcd {appName}");
+            
             foreach (var line in configFileLines)
             {
                  if (line.Contains($"{appName} Path:"))

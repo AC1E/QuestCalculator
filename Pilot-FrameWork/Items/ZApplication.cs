@@ -14,16 +14,12 @@ namespace Pilot_FrameWork.Items
 
         public static void LaunchApplication(string appName)
         {
-            //  var appPath = Configuration.path();
             var appPath = Configuration.path(appName);
-            Console.WriteLine(appPath);
             application = Application.Launch(appPath);
-
         }
 
         public static ZWindow GetApplicationWindow(string title = "")
-        {
-            
+        { 
             return new ZWindow(application.GetWindow(string.IsNullOrEmpty(title) ? "Calculator" : title));
         }
 
