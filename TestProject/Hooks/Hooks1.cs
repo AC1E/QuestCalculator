@@ -1,0 +1,34 @@
+﻿using Pilot_FrameWork;
+using System.Drawing.Text;
+using TechTalk.SpecFlow;
+
+namespace TestProject.Hooks
+{
+    [Binding]
+    public sealed class Hooks1
+    {
+        // For additional details on SpecFlow hooks see http://go.specflow.org/doc-hooks
+        private readonly ProcessesHelpers processes = new ProcessesHelpers();
+        [BeforeScenario("@tag1")]
+        public void BeforeScenarioWithTag()
+        {
+            string appname = "calc1";
+            processes.KillMultipleInstancesOfProcess(appname);
+        }
+
+        [BeforeScenario(Order = 1)]
+        public void FirstBeforeScenario()
+        {
+            // Example of ordering the execution of hooks
+            // See https://docs.specflow.org/projects/specflow/en/latest/Bindings/Hooks.html?highlight=order#hook-execution-order
+
+            //TODO: implement logic that has to run before executing each scenario
+        }
+
+        [AfterScenario]
+        public void AfterScenario()
+        {
+            //TODO: implement logic that has to run after executing each scenario
+        }
+    }
+}

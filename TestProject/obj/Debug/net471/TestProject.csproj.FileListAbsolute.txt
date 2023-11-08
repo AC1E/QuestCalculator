@@ -1,0 +1,7 @@
+C:\Users\consani\source\repos\Pilot-FrameWork\TestProject\obj\Debug\net471\TestProject.csproj.AssemblyReference.cache
+C:\Users\consani\source\repos\Pilot-FrameWork\TestProject\obj\Debug\net471\TestProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\consani\source\repos\Pilot-FrameWork\TestProject\obj\Debug\net471\TestProject.dll.config
+C:\Users\consani\source\repos\Pilot-FrameWork\TestProject\obj\Debug\net471\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\consani\source\repos\Pilot-FrameWork\TestProject\obj\Debug\net471\TestProject.AssemblyInfoInputs.cache
+C:\Users\consani\source\repos\Pilot-FrameWork\TestProject\obj\Debug\net471\TestProject.AssemblyInfo.cs
+C:\Users\consani\source\repos\Pilot-FrameWork\TestProject\obj\Debug\net471\TestProject.csproj.CoreCompileInputs.cache
