@@ -1,4 +1,7 @@
+using Pilot_FrameWork.Items;
 using TechTalk.SpecFlow;
+using TestProject.Forms;
+using TestStack.White.UIItems.Finders;
 
 namespace TestProject.StepDefinitions
 {
@@ -6,37 +9,14 @@ namespace TestProject.StepDefinitions
     public sealed class CalculatorStepDefinitions
     {
         // For additional details on SpecFlow step definitions see https://go.specflow.org/doc-stepdef
-
-        [Given("the first number is (.*)")]
-        public void GivenTheFirstNumberIs(int number)
+        CalculatorForm calculator = new CalculatorForm(SearchCriteria.All, "");
+        
+        [Given(@"launch the application using the '([^']*)'")]
+        public void GivenLaunchTheApplicationUsingThe(string path)
         {
-           
-
-            throw new PendingStepException();
+            ZApplication.LaunchApplication("calcualtor");
         }
 
-        [Given("the second number is (.*)")]
-        public void GivenTheSecondNumberIs(int number)
-        {
-            //TODO: implement arrange (precondition) logic
-
-            throw new PendingStepException();
-        }
-
-        [When("the two numbers are added")]
-        public void WhenTheTwoNumbersAreAdded()
-        {
-            //TODO: implement act (action) logic
-
-            throw new PendingStepException();
-        }
-
-        [Then("the result should be (.*)")]
-        public void ThenTheResultShouldBe(int result)
-        {
-            //TODO: implement assert (verification) logic
-
-            throw new PendingStepException();
-        }
     }
+
 }

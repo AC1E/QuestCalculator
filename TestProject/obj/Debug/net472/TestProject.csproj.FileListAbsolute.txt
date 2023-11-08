@@ -76,3 +76,6 @@ C:\Users\consani\source\repos\Pilot-FrameWork\TestProject\bin\Debug\net472\zh-Ha
 C:\Users\consani\source\repos\Pilot-FrameWork\TestProject\bin\Debug\net472\Pilot-FrameWork.dll
 C:\Users\consani\source\repos\Pilot-FrameWork\TestProject\bin\Debug\net472\Pilot-FrameWork.pdb
 C:\Users\consani\source\repos\Pilot-FrameWork\TestProject\bin\Debug\net472\Pilot-FrameWork.dll.config
+C:\Users\consani\source\repos\Pilot-FrameWork\TestProject\bin\Debug\net472\selenium-manager\linux\selenium-manager
+C:\Users\consani\source\repos\Pilot-FrameWork\TestProject\bin\Debug\net472\selenium-manager\macos\selenium-manager
+C:\Users\consani\source\repos\Pilot-FrameWork\TestProject\bin\Debug\net472\selenium-manager\windows\selenium-manager.exe
