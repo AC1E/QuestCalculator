@@ -7,5 +7,5 @@ Link to a feature: [Calculator](TestProject/Features/Calculator.feature)
 
 @tag1
 Scenario: Calcualtor operation
-	Given launch the application using the 'path'
+	Given launch the application 
 	

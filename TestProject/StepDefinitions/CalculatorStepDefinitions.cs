@@ -11,8 +11,9 @@ namespace TestProject.StepDefinitions
         // For additional details on SpecFlow step definitions see https://go.specflow.org/doc-stepdef
         CalculatorForm calculator = new CalculatorForm(SearchCriteria.All, "");
         
-        [Given(@"launch the application using the '([^']*)'")]
-        public void GivenLaunchTheApplicationUsingThe(string path)
+    
+        [Given(@"launch the application")]
+        public void GivenLaunchTheApplication()
         {
             ZApplication.LaunchApplication("calcualtor");
         }
