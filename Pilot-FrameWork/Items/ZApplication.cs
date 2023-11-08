@@ -11,12 +11,9 @@ namespace Pilot_FrameWork.Items
     {
         public static Application application;
 
-        
         public static void LaunchApplication(string appName)
         {
-           var apppath=Configuration.path();
-            // var Path = ConfigurationManager.AppSettings["AppPath"];
-
+            var apppath = Configuration.path();
             application = Application.Launch(apppath);
         }
 

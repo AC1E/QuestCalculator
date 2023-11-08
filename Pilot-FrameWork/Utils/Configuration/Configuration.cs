@@ -9,16 +9,15 @@ using Newtonsoft.Json;
 using System.IO;
 
 namespace Pilot_FrameWork.Utils.Configuration
-{
-    
+{ 
     public class Configuration
     {
         public static string path()
         {
-            string path = File.ReadAllText("Apppath.txt");
+            string path = File.ReadAllText("AppPath.txt");
             Console.WriteLine(path);
             return path;
         }
     }
-    }
+}
 
