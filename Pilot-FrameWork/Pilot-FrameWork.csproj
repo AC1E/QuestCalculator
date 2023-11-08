@@ -149,7 +149,6 @@
   <ItemGroup>
     <None Include="app.config" />
     <None Include="packages.config" />
-    <None Include="Utils\Configuration\App.config" />
     <None Include="Utils\packages.config" />
     <None Include="NLog.config" />
   </ItemGroup>
@@ -157,8 +156,7 @@
     <Folder Include="Utils\Loggers\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Utils\Configuration\Apppath.txt" />
-    <Content Include="Utils\Configuration\System.Xml" />
+    <Content Include="Utils\Configuration\Config.txt" />
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

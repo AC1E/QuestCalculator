@@ -4,6 +4,7 @@ using TestStack.White;
 using Pilot_FrameWork.Utils.Configuration;
 using Configuration = Pilot_FrameWork.Utils.Configuration.Configuration;
 using System.Xml;
+using System.IO;
 
 namespace Pilot_FrameWork.Items
 {
@@ -13,12 +14,16 @@ namespace Pilot_FrameWork.Items
 
         public static void LaunchApplication(string appName)
         {
-            var apppath = Configuration.path();
-            application = Application.Launch(apppath);
+            //  var appPath = Configuration.path();
+            var appPath = Configuration.path(appName);
+            Console.WriteLine(appPath);
+            application = Application.Launch(appPath);
+
         }
 
         public static ZWindow GetApplicationWindow(string title = "")
         {
+            
             return new ZWindow(application.GetWindow(string.IsNullOrEmpty(title) ? "Calculator" : title));
         }
 
