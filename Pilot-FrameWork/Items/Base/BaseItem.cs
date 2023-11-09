@@ -31,15 +31,7 @@ namespace Pilot_FrameWork.Base
                 return null;
             }
         }
-        public  string GetLabelText()
-        {
-            var uiItem = UIGetElement();
-            if (uiItem is Label labelElement)
-            {
-                return labelElement.Text;
-            }
-            return null;
-        }
+        
         public void Click()
         {
             try

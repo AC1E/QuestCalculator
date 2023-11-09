@@ -45,14 +45,10 @@ namespace TestProject.StepDefinitions
         [Then(@": Use square root if its scientific '([^']*)'")]
         public void ThenUseSquareRootIfItsScientific(string p0)
         {
-
             if (smode == "Scientific")
-            {
-               
-               
+            {  
                 calculator.EnterNumber(p0);
-                calculator.EnterSquare();
-               
+                calculator.EnterSquare(); 
             }
             else
             {

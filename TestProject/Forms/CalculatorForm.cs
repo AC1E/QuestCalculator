@@ -14,7 +14,7 @@ namespace TestProject.Forms
 {
     
     public class CalculatorForm : BaseItem
-        {
+     {
         private static readonly ILogger Logger = LogManager.GetCurrentClassLogger();
         public CalculatorForm(SearchCriteria searchCriteria, string friendlyName) : base(searchCriteria, friendlyName)
         {
@@ -115,18 +115,16 @@ namespace TestProject.Forms
 
         public static bool CompareResult(string expectedValue)
         {
-
-               ZLabels appLabel = new ZLabels(SearchCriteria.ByAutomationId("158"), "lsbel");
-                var ObtainedResult = appLabel.GetLabelText();
-                
-                bool result = false;
-                if (ObtainedResult != null)
-                {
-                    if (ObtainedResult == expectedValue)
-                        result = true;
-                    return result;
-                }
-                return result;
+             ZLabels appLabel = new ZLabels(SearchCriteria.ByAutomationId("158"), "lsbel");
+             var ObtainedResult = appLabel.GetLabelText();    
+             bool result = false;
+             if (ObtainedResult != null)
+             {
+                 if (ObtainedResult == expectedValue)
+                 result = true;
+                 return result;
+             }
+             return result;
         }
 
            

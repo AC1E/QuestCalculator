@@ -7,10 +7,8 @@ using System.Threading.Tasks;
 
 namespace Pilot_FrameWork.Utils.Loggers
 {
-    public class Logger
-    {
-        public class NLogReporter
-        {
+       public class NLogReporter
+       {
 
             private static readonly ILogger Logger = LogManager.GetCurrentClassLogger();
             public void LogInfo(string message)
@@ -31,4 +29,5 @@ namespace Pilot_FrameWork.Utils.Loggers
             }
         }
     }
-}
+
+

@@ -7,7 +7,6 @@ namespace TestProject.Hooks
     [Binding]
     public sealed class Hooks1
     {
-        // For additional details on SpecFlow hooks see http://go.specflow.org/doc-hooks
         private readonly ProcessesHelpers processes = new ProcessesHelpers();
         [BeforeScenario("@tag1")]
         public void BeforeScenarioWithTag()
