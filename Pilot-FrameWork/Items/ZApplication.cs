@@ -48,27 +48,4 @@ namespace Pilot_FrameWork.Items
 
 
     }
-        /*
-        public static Application application;
-
-        public static void LaunchApplication(string appName)
-        {
-           var appPath = Configuration.path(appName);
-            application = Application.Launch(appPath);
-        }
-
-        public static ZWindow GetApplicationWindow(string title = "")
-        {
-            
-            return new ZWindow(application.GetWindow(string.IsNullOrEmpty(title) ? "Calculator" : title));
-        }
-
-        public static void CloseApplication()
-        {   
-          application.Close();     
-        }
-    }
-}
-
-
-        */
+       

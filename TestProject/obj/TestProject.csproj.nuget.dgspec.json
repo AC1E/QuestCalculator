@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\consani\\Source\\Repos\\QuestCalculator1\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\consani\\Source\\Repos\\QuestCalculator1\\Pilot-FrameWork\\Pilot-FrameWork.csproj": {
+    "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\Pilot-FrameWork\\Pilot-FrameWork.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\consani\\Source\\Repos\\QuestCalculator1\\Pilot-FrameWork\\Pilot-FrameWork.csproj",
+        "projectUniqueName": "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\Pilot-FrameWork\\Pilot-FrameWork.csproj",
         "projectName": "Pilot-FrameWork",
-        "projectPath": "C:\\Users\\consani\\Source\\Repos\\QuestCalculator1\\Pilot-FrameWork\\Pilot-FrameWork.csproj",
+        "projectPath": "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\Pilot-FrameWork\\Pilot-FrameWork.csproj",
         "frameworks": {
           "net472": {
             "projectReferences": {}
@@ -19,14 +19,14 @@
         "net472": {}
       }
     },
-    "C:\\Users\\consani\\Source\\Repos\\QuestCalculator1\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\consani\\Source\\Repos\\QuestCalculator1\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\consani\\Source\\Repos\\QuestCalculator1\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\consani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\consani\\Source\\Repos\\QuestCalculator1\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -48,8 +48,8 @@
           "net472": {
             "targetAlias": "net472",
             "projectReferences": {
-              "C:\\Users\\consani\\Source\\Repos\\QuestCalculator1\\Pilot-FrameWork\\Pilot-FrameWork.csproj": {
-                "projectPath": "C:\\Users\\consani\\Source\\Repos\\QuestCalculator1\\Pilot-FrameWork\\Pilot-FrameWork.csproj"
+              "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\Pilot-FrameWork\\Pilot-FrameWork.csproj": {
+                "projectPath": "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\Pilot-FrameWork\\Pilot-FrameWork.csproj"
               }
             }
           }

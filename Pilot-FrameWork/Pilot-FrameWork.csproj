@@ -191,7 +191,9 @@
     <None Include="app.config" />
     <None Include="packages.config" />
     <None Include="Utils\packages.config" />
-    <None Include="NLog.config" />
+    <None Include="NLog.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>

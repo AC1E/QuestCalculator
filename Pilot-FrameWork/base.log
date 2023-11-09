@@ -1,0 +1,6 @@
+2023-11-09 15:26:49.3292 INFO Application 'calcualtor' launched successfully.
+2023-11-09 15:26:56.0657 INFO Application 'calcualtor' launched successfully.
+2023-11-09 15:28:31.6259 INFO Application 'calcualtor' launched successfully.
+2023-11-09 15:29:03.5629 ERROR Error getting the application window: Couldn't find window with title Calculato in process 25316, after waiting for 30 seconds
+2023-11-09 15:29:03.6506 INFO Application 'calcualtor' launched successfully.
+2023-11-09 15:29:34.8486 ERROR Error getting the application window: Couldn't find window with title Calculato in process 13840, after waiting for 30 seconds

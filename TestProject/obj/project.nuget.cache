@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WplDIGcuenIeQ8p3Bet4V5MpBmn/gnFCt/QnURoKXCbUMZto0aP8oyuKssMsOC4tQjPJLPfzKhCEG7MxvqVAUA==",
+  "dgSpecHash": "tbiSJObXvJK89XbK7W3SwaxtTrvhni/Bst7qdxXSaqmwPzlXqnUwraLuAFC+AYYTK+ZofAQemcWILkr7ApqEVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\consani\\Source\\Repos\\QuestCalculator1\\TestProject\\TestProject.csproj",
+  "projectFilePath": "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\TestProject\\TestProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\consani\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\consani\\.nuget\\packages\\castle.core\\3.3.0\\castle.core.3.3.0.nupkg.sha512",

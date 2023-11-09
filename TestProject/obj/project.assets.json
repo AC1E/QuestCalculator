@@ -1441,9 +1441,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\consani\\Source\\Repos\\QuestCalculator1\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\consani\\Source\\Repos\\QuestCalculator1\\TestProject\\TestProject.csproj",
+      "projectPath": "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\consani\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\consani\\Source\\Repos\\QuestCalculator1\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
@@ -1467,8 +1467,8 @@
         "net472": {
           "targetAlias": "net472",
           "projectReferences": {
-            "C:\\Users\\consani\\Source\\Repos\\QuestCalculator1\\Pilot-FrameWork\\Pilot-FrameWork.csproj": {
-              "projectPath": "C:\\Users\\consani\\Source\\Repos\\QuestCalculator1\\Pilot-FrameWork\\Pilot-FrameWork.csproj"
+            "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\Pilot-FrameWork\\Pilot-FrameWork.csproj": {
+              "projectPath": "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\Pilot-FrameWork\\Pilot-FrameWork.csproj"
             }
           }
         }
