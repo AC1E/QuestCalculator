@@ -24,7 +24,6 @@ C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\NLog.dll
 C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\nunit.framework.dll
 C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\SeleniumExtras.PageObjects.dll
 C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\SpecFlow.Internal.Json.dll
-C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\System.ValueTuple.dll
 C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\System.Web.Helpers.dll
 C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\System.Web.Mvc.dll
 C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\System.Web.Razor.dll
@@ -45,7 +44,6 @@ C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\Microsof
 C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\NLog.xml
 C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\nunit.framework.xml
-C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\System.ValueTuple.xml
 C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\System.Web.Helpers.xml
 C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\System.Web.Mvc.xml
 C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\System.Web.Razor.xml
@@ -76,3 +74,13 @@ C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\zh-Hant\
 C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\obj\Debug\Pilot-FrameWork.csproj.CopyComplete
 C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\obj\Debug\Pilot-FrameWork.dll
 C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\obj\Debug\Pilot-FrameWork.pdb
+C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\Newtonsoft.Json.dll
+C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\System.Drawing.Common.dll
+C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\Newtonsoft.Json.xml
+C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\Users\consani\source\repos\Pilot-FrameWork\Pilot-FrameWork\bin\Debug\System.Drawing.Common.xml
