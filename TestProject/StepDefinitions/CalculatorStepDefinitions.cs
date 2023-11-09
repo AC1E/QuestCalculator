@@ -11,7 +11,7 @@ namespace TestProject.StepDefinitions
         CalculatorForm calculator = new CalculatorForm(SearchCriteria.All, "");
         string smode;
 
-        [Given(@"Open the Calculator Application")]
+        [Given(@": Open the Calculator Application")]
         public void GivenOpenTheCalculatorApplication()
         {
             ZApplication.LaunchApplication("calcualtor");
@@ -24,24 +24,16 @@ namespace TestProject.StepDefinitions
             calculator.EnterMode(mode);
         }
 
-        [Then(@": I Enter on '([^']*)'")]
-        public void ThenIEnterOn(string p0)
-        {
-            string num3 = p0.ToString();
-            calculator.EnterNumber(num3);
-        }
-
+   
         [Then(@": I Enter '([^']*)' '([^']*)' and perform add operation")]
         public void ThenIEnterAndPerformAddOperation(string p0, string p1)
-        {
-            string num1 = p0.ToString();
-            Console.WriteLine(num1);    
-            string num2 = p1.ToString();
+        { 
 
-            calculator.EnterNumber(num1);
+            calculator.EnterNumber(p0);
             calculator.EnterPlus();
-            calculator.EnterNumber(num2);
-            calculator.EnterPlus();
+            calculator.EnterNumber(p1);
+            calculator.EnterEqual();    
+
         }
 
         [Then(@": Then I Click M\+")]
@@ -56,27 +48,25 @@ namespace TestProject.StepDefinitions
 
             if (smode == "Scientific")
             {
-                calculator.EnterClear();
+               
+               
                 calculator.EnterNumber(p0);
                 calculator.EnterSquare();
-                calculator.EnterEqual();
+               
             }
             else
             {
+                calculator.EnterPlus();
                 calculator.EnterNumber(p0);
                 calculator.EnterEqual();
             }
         }
 
-        
-
         [Then(@": The Result should be '([^']*)'")]
         public void ThenTheResultShouldBe(string p0)
         {
             string num4 = p0.ToString();
-
             bool compareReslt = CalculatorForm.CompareResult(num4);
-
             if (compareReslt == true)
             {
                 Console.WriteLine("The obtained result matches the expected value.");

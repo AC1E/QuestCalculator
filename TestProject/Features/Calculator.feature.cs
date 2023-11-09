@@ -105,7 +105,7 @@ namespace TestProject.Features
             {
                 this.ScenarioStart();
 #line 7
- testRunner.Given("Open the Calculator Application", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+ testRunner.Given(": Open the Calculator Application", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
 #line 8
  testRunner.And(string.Format(": Select the Mode \'{0}\'", specificMode), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");

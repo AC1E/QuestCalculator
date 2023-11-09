@@ -36,7 +36,7 @@ namespace Pilot_FrameWork.Utils.Configuration
             }
                 return null; 
         }
-        static string GetWindowName(string appName)
+        public static string GetWindowName(string appName)
         {
               foreach (var line in configFileLines)
               {
