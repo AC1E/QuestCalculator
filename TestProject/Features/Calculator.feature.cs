@@ -117,12 +117,9 @@ namespace TestProject.Features
  testRunner.And(": Then I Click M+", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
 #line 11
- testRunner.And(string.Format(": I Enter on \'{0}\'", numb3), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
-#line hidden
-#line 12
  testRunner.And(string.Format(": Use square root if its scientific \'{0}\'", numb3), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
-#line 13
+#line 12
  testRunner.And(string.Format(": The Result should be \'{0}\'", numb4), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
             }

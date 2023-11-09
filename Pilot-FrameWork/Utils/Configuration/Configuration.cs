@@ -18,7 +18,7 @@ namespace Pilot_FrameWork.Utils.Configuration
         static string[] configFileLines;
         public static string path(string appname)
         {
-            string configFilePath = "C:\\Users\\consani\\source\\repos\\Pilot-FrameWork\\Pilot-FrameWork\\Utils\\Configuration\\config.txt";
+            string configFilePath = "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\Pilot-FrameWork\\Utils\\Configuration\\config.txt";
             configFileLines = File.ReadAllLines(configFilePath); 
             var app1Path = GetPath(appname); 
             var app1WindowName = GetWindowName(appname); 
