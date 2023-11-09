@@ -9,6 +9,7 @@ namespace TestProject.StepDefinitions
     public sealed class CalculatorStepDefinitions
     {
         CalculatorForm calculator = new CalculatorForm(SearchCriteria.All, "");
+        string smode;
 
         [Given(@"Open the Calculator Application")]
         public void GivenOpenTheCalculatorApplication()
@@ -19,9 +20,9 @@ namespace TestProject.StepDefinitions
         [Given(@": Select the Mode '([^']*)'")]
         public void GivenSelectTheMode(string mode)
         {
+            smode= mode;    
             calculator.EnterMode(mode);
         }
-
 
         [Then(@": I Enter '([^']*)' '([^']*)' and perform add operation")]
         public void ThenIEnterAndPerformAddOperation(string p0, string p1)
@@ -34,7 +35,6 @@ namespace TestProject.StepDefinitions
             calculator.EnterPlus();
             calculator.EnterNumber(num2);
             calculator.EnterPlus();
-
         }
 
         [Then(@": Then I Click M\+")]
@@ -43,34 +43,22 @@ namespace TestProject.StepDefinitions
             calculator.EnterMPlus();
         }
 
-
-        [Then(@": Use square root if its scientific")]
-       
-        public void ThenUseSquareRootIfItsScientific()
+        [Then(@": Use square root if its scientific '([^']*)'")]
+        public void ThenUseSquareRootIfItsScientific(string p0)
         {
-            if (ScenarioContext.Current["SpecificMode"].ToString() == "Scientific")
+
+            if (smode == "Scientific")
             {
-                var number3 = ScenarioContext.Current["numb3"].ToString();
-
-
-                if (number3 == "19")
-                {
-
-
-                    calculator.EnterClear();
-
-                    calculator.EnterNumber("19");
-                    calculator.EnterSquare();
-                    calculator.EnterEqual();
-                }
-                else
-                {
-                    calculator.EnterNumber("19");
-                    calculator.EnterEqual();
-                }
-
+                calculator.EnterClear();
+                calculator.EnterNumber(p0);
+                calculator.EnterSquare();
+                calculator.EnterEqual();
             }
-
+            else
+            {
+                calculator.EnterNumber(p0);
+                calculator.EnterEqual();
+            }
         }
 
         [Then(@": I Enter on '([^']*)'")]
@@ -98,7 +86,5 @@ namespace TestProject.StepDefinitions
             }
 
         }
-
-
     }
 }

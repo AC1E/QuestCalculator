@@ -37,6 +37,7 @@ namespace TestProject.Forms
         }
         public void EnterSquare()
         {
+            Console.WriteLine("henter square");
             ButtonSquare.Click();
         }
         public void EnterClear()

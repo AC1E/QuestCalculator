@@ -143,6 +143,7 @@
     <Compile Include="Items\ZMenu.cs" />
     <Compile Include="Items\ZWindow.cs" />
     <Compile Include="Utils\Configuration\Configuration.cs" />
+    <Compile Include="Utils\Loggers\Logger.cs" />
     <Compile Include="Utils\ProcessesHelpers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -152,9 +153,7 @@
     <None Include="Utils\packages.config" />
     <None Include="NLog.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Utils\Loggers\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Content Include="Utils\Configuration\Config.txt" />
   </ItemGroup>

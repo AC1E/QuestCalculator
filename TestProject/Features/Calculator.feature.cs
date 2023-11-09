@@ -76,9 +76,9 @@ namespace TestProject.Features
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Check for result for operation")]
         [NUnit.Framework.CategoryAttribute("outline")]
-        [NUnit.Framework.TestCaseAttribute("Standard", "12", "999", "1030", null)]
-        [NUnit.Framework.TestCaseAttribute("Scientific", "12", "999", "361", null)]
-        public void CheckForResultForOperation(string specificMode, string numb1, string numb2, string numb4, string[] exampleTags)
+        [NUnit.Framework.TestCaseAttribute("Standard", "12", "999", "19", "1030", null)]
+        [NUnit.Framework.TestCaseAttribute("Scientific", "12", "999", "19", "361", null)]
+        public void CheckForResultForOperation(string specificMode, string numb1, string numb2, string numb3, string numb4, string[] exampleTags)
         {
             string[] @__tags = new string[] {
                     "outline"};
@@ -91,6 +91,7 @@ namespace TestProject.Features
             argumentsOfScenario.Add("SpecificMode", specificMode);
             argumentsOfScenario.Add("Numb1", numb1);
             argumentsOfScenario.Add("numb2", numb2);
+            argumentsOfScenario.Add("numb3", numb3);
             argumentsOfScenario.Add("numb4", numb4);
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Check for result for operation", null, tagsOfScenario, argumentsOfScenario, featureTags);
 #line 6
@@ -116,10 +117,10 @@ namespace TestProject.Features
  testRunner.And(": Then I Click M+", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
 #line 11
- testRunner.And(": I Enter on \'<numb3>\'", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+ testRunner.And(string.Format(": I Enter on \'{0}\'", numb3), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
 #line 12
- testRunner.And(": Use square root if its scientific", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+ testRunner.And(string.Format(": Use square root if its scientific \'{0}\'", numb3), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
 #line 13
  testRunner.And(string.Format(": The Result should be \'{0}\'", numb4), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
