@@ -8,11 +8,14 @@ using TestStack.White.UIItems;
 using Pilot_FrameWork.Base;
 using Pilot_FrameWork.Items;
 using TestStack.White.UIItems.MenuItems;
+using NLog;
 
 namespace TestProject.Forms
 {
-        public class CalculatorForm : BaseItem
+    
+    public class CalculatorForm : BaseItem
         {
+        private static readonly ILogger Logger = LogManager.GetCurrentClassLogger();
         public CalculatorForm(SearchCriteria searchCriteria, string friendlyName) : base(searchCriteria, friendlyName)
         {
         }
@@ -29,20 +32,60 @@ namespace TestProject.Forms
         }
         public void EnterMPlus()
         {
-            ButtonMPlus.Click();
+            try
+            {
+                 Logger.Info("Plus button clicked.");
+                ButtonPlus.Click();
+               
+            }
+            catch (Exception ex)
+            {
+                Logger.Error($"Error clicking Plus button: {ex.Message}");
+            }
         }
+    
         public void EnterEqual()
         {
-            ButtonEqual.Click();
+            try
+            {
+                Logger.Info("Equal button clicked.");
+                ButtonPlus.Click();
+
+            }
+            catch (Exception ex)
+            {
+                Logger.Error($"Error clicking Equals button: {ex.Message}");
+            }
         }
         public void EnterSquare()
         {
-            Console.WriteLine("henter square");
-            ButtonSquare.Click();
+            try
+            {
+                Logger.Info("Square button clicked.");
+                ButtonSquare.Click();
+
+
+            }
+            catch (Exception ex)
+            {
+                Logger.Error($"Error clicking Square button: {ex.Message}");
+            }
         }
         public void EnterClear()
         {
-            ClearButton.Click();
+
+            try
+            {
+                Logger.Info("Clear button clicked.");
+                ClearButton.Click();
+
+
+
+            }
+            catch (Exception ex)
+            {
+                Logger.Error($"Error clicking Clear button: {ex.Message}");
+            }
         }
         public ZButtons getButton(string number)
         {

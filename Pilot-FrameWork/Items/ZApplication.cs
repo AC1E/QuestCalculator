@@ -20,7 +20,7 @@ namespace Pilot_FrameWork.Items
                 try
                 {
                     Logger.Info($"Application '{appName}' launched successfully.");
-                    var appPath = Configuration.path(appName);
+                    var appPath = Configuration.Path(appName);
                     application = Application.Launch(appPath);
                     
                 }

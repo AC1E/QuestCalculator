@@ -9,46 +9,72 @@ using Newtonsoft.Json;
 using System.IO;
 using NUnit.Framework;
 using Gherkin.CucumberMessages.Types;
+using NLog;
 
 
 namespace Pilot_FrameWork.Utils.Configuration
 { 
-    public class Configuration
-    {
-        static string[] configFileLines;
-        public static string path(string appname)
+           public class Configuration
         {
-            string configFilePath = "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\Pilot-FrameWork\\Utils\\Configuration\\config.txt";
-            configFileLines = File.ReadAllLines(configFilePath); 
-            var app1Path = GetPath(appname); 
-            var app1WindowName = GetWindowName(appname); 
-            return app1Path;   
-        }
-        static string GetPath(string appName)
-        {
-            
-            foreach (var line in configFileLines)
+            private static readonly ILogger Logger = LogManager.GetCurrentClassLogger();
+            private static string[] configFileLines;
+            public static string Path(string appName)
             {
-                 if (line.Contains($"{appName} Path:"))
-                 {
-                        return line.Replace($"{appName} Path: ", "");
-                 }
+                try
+                {
+                    string configFilePath = "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\Pilot-FrameWork\\Utils\\Configuration\\config.txt";
+                    configFileLines = File.ReadAllLines(configFilePath);
+                    return GetPath(appName);
+                }
+                catch (Exception ex)
+                {
+                    Logger.Error($"Error reading configuration file: {ex.Message}");
+                    return null;
+                }
             }
-                return null; 
-        }
-        public static string GetWindowName(string appName)
-        {
-              foreach (var line in configFileLines)
-              {
-                    if (line.Contains($"{appName} WindowName:"))
+            private static string GetPath(string appName)
+            {
+                try
+                {
+                    foreach (var line in configFileLines)
                     {
-                        return line.Replace($"{appName} WindowName: ", "");
+                        if (line.Contains($"{appName} Path:"))
+                        {
+                            return line.Replace($"{appName} Path: ", "");
+                        }
                     }
-              }
-                return null; 
+                    Logger.Warn($"Path for {appName} not found in the configuration file.");
+                    return null;
+                }
+                catch (Exception ex)
+                {
+                    Logger.Error($"Error getting path for {appName}: {ex.Message}");
+                    return null;
+                }
+            }
+            public static string GetWindowName(string appName)
+            {
+                try
+                {
+                    foreach (var line in configFileLines)
+                    {
+                        if (line.Contains($"{appName} WindowName:"))
+                        {
+                            return line.Replace($"{appName} WindowName: ", "");
+                        }
+                    }
+                    Logger.Warn($"WindowName for {appName} not found in the configuration file.");
+                    return null;
+                }
+                catch (Exception ex)
+                {
+                    Logger.Error($"Error getting window name for {appName}: {ex.Message}");
+                    return null;
+                }
+            }
         }
     }
-}
+
     
 
 

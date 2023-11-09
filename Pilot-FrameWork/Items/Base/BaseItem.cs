@@ -2,50 +2,76 @@
 using TestStack.White.UIItems.Finders;
 using TestStack.White.UIItems;
 using Pilot_FrameWork.Items;
+using NLog;
+using System;
 
 namespace Pilot_FrameWork.Base
 {
     public class BaseItem
     {
-        static SearchCriteria _searchCriteria;
-        private string _friendlyname;
-        public BaseItem(SearchCriteria searchCriteria, string friendlyname)
+
+
+        private static readonly ILogger Logger = LogManager.GetCurrentClassLogger();
+        private SearchCriteria _searchCriteria;
+        private string _friendlyName;
+        public BaseItem(SearchCriteria searchCriteria, string friendlyName)
         {
             _searchCriteria = searchCriteria;
-            _friendlyname = friendlyname;
+            _friendlyName = friendlyName;
         }
-
         public IUIItem UIGetElement()
         {
-            return ZApplication.GetApplicationWindow().zWindow.Get(_searchCriteria);
+            try
+            {
+                return ZApplication.GetApplicationWindow().zWindow.Get(_searchCriteria);
+            }
+            catch (Exception ex)
+            {
+                Logger.Error($"Error retrieving UI element {_friendlyName}: {ex.Message}");
+                return null;
+            }
         }
-
-        public string GetLabelText()
+        public  string GetLabelText()
         {
-            var uIItem = UIGetElement();
-            if (uIItem is Label labelElement)
+            var uiItem = UIGetElement();
+            if (uiItem is Label labelElement)
             {
                 return labelElement.Text;
             }
-
             return null;
         }
-
         public void Click()
         {
-            var ClickButton = UIGetElement();
-            ClickButton.Click();
+            try
+            {
+                Logger.Info($"Clicked {_friendlyName} button successfully.");
+                var clickButton = UIGetElement();
+                clickButton?.Click();
+                
+            }
+            catch (Exception ex)
+            {
+                Logger.Error($"Error clicking {_friendlyName} button: {ex.Message}");
+            }
         }
-
         public void DoubleClick()
         {
-            var ClickMenu = UIGetElement();
-            ClickMenu.DoubleClick();
+            try
+            {
+                Logger.Info($"Double-clicked {_friendlyName} element successfully.");
+                var clickMenu = UIGetElement();
+                clickMenu?.DoubleClick();
+               
+            }
+            catch (Exception ex)
+            {
+                Logger.Error($"Error double-clicking {_friendlyName} element: {ex.Message}");
+            }
         }
-
-
     }
 }
+
+
 
 
 
