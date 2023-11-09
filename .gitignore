@@ -10,7 +10,7 @@
 *.t_
 *.jar
 *.dll
-**/Waters.UIAutomation.SDMS.TestingGroup/**/*.feature.cs
+
  
 _ccmwaid.inf
 EDN.ini
