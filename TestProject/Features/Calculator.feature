@@ -9,7 +9,7 @@ Feature: Peform Operation On Calculator
 	Then  : I Enter '<Numb1>' '<numb2>' and perform add operation
 	And   : Then I Click M+
 	And   : Use square root if its scientific '<numb3>'
-	And   : The Result should be '<numb4>'
+	And   : The Result should is '<numb4>'
 
 
 	Examples: 

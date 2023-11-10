@@ -12,7 +12,7 @@ namespace Pilot_FrameWork.Items
         {
 
         }
-        public string GetLabelText()
+        public  string GetLabelText()
         {
             var uiItem = UIGetElement();
             if (uiItem is Label labelElement)

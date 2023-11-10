@@ -1,7 +1,9 @@
+using NUnit.Framework;
 using Pilot_FrameWork.Items;
 using TechTalk.SpecFlow;
 using TestProject.Forms;
 using TestStack.White.UIItems.Finders;
+
 
 namespace TestProject.StepDefinitions
 {
@@ -58,20 +60,12 @@ namespace TestProject.StepDefinitions
             }
         }
 
-        [Then(@": The Result should be '([^']*)'")]
-        public void ThenTheResultShouldBe(string p0)
+        [Then(@": The Result should is '([^']*)'")]
+        public void ThenTheResultShouldIs(string p0)
         {
-            string num4 = p0.ToString();
-            bool compareReslt = CalculatorForm.CompareResult(num4);
-            if (compareReslt == true)
-            {
-                Console.WriteLine("The obtained result matches the expected value.");
-            }
-            else
-            {
-                Console.WriteLine("The obtained result does not match the expected value.");
-            }
-
+            var result = CalculatorForm.GetResult();
+            Assert.AreEqual(p0, result);
         }
+
     }
 }

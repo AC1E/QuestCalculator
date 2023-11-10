@@ -24,7 +24,6 @@ namespace Pilot_FrameWork.Utils.Configuration
                 var currentPath = Directory.GetCurrentDirectory();
                 Console.WriteLine(currentPath);
                 var absoultePath = $"{currentPath}/../../../../Pilot-FrameWork/Utils/Configuration/Config.txt";
-
                 configFileLines = File.ReadAllLines(absoultePath);
                 return GetPath(appName);
             }

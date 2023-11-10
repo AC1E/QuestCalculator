@@ -106,18 +106,17 @@ namespace TestProject.Forms
              clickScientific.Click();
         }
 
-        public static bool CompareResult(string expectedValue)
+        public static string GetResult()
         {
              ZLabels appLabel = new ZLabels(SearchCriteria.ByAutomationId("158"), "lsbel");
-             var ObtainedResult = appLabel.GetLabelText();    
-             bool result = false;
-             if (ObtainedResult != null)
-             {
-                 if (ObtainedResult == expectedValue)
-                 result = true;
-                 return result;
-             }
-             return result;
+            var ObtainedResult = appLabel.GetLabelText();
+            Console.WriteLine(ObtainedResult);
+            return ObtainedResult;
+
+            
+            
+           
+
         }
 
            
