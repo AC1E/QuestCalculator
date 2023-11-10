@@ -2235,3 +2235,137 @@
 2023-11-10 12:47:39.1975 INFO Clicked number button successfully.
 2023-11-10 12:47:39.4493 INFO Square button clicked.
 2023-11-10 12:47:39.4493 INFO Clicked Number button successfully.
+2023-11-10 15:03:24.6455 INFO Application 'calcualtor' launched successfully.
+2023-11-10 15:03:24.7939 INFO Double-clicked Option element successfully.
+2023-11-10 15:03:26.2979 INFO Clicked Mode button successfully.
+2023-11-10 15:03:26.5821 INFO Clicked number button successfully.
+2023-11-10 15:03:26.8149 INFO Clicked number button successfully.
+2023-11-10 15:03:27.0281 INFO Clicked Number button successfully.
+2023-11-10 15:03:27.2481 INFO Clicked number button successfully.
+2023-11-10 15:03:27.4878 INFO Clicked number button successfully.
+2023-11-10 15:03:28.0688 INFO Clicked number button successfully.
+2023-11-10 15:03:28.6439 INFO Equal button clicked.
+2023-11-10 15:03:28.6439 INFO Clicked Number button successfully.
+2023-11-10 15:03:28.9199 INFO Plus button clicked.
+2023-11-10 15:03:28.9199 INFO Clicked Number button successfully.
+2023-11-10 15:03:29.5110 INFO Clicked Number button successfully.
+2023-11-10 15:03:30.0892 INFO Clicked number button successfully.
+2023-11-10 15:03:30.3085 INFO Clicked number button successfully.
+2023-11-10 15:03:30.5388 INFO Equal button clicked.
+2023-11-10 15:03:30.5388 INFO Clicked Number button successfully.
+2023-11-10 15:03:30.8527 INFO Application 'calcualtor' launched successfully.
+2023-11-10 15:03:30.9015 INFO Double-clicked Option element successfully.
+2023-11-10 15:03:31.8588 INFO Clicked Mode button successfully.
+2023-11-10 15:03:32.1095 INFO Clicked number button successfully.
+2023-11-10 15:03:32.5896 INFO Clicked number button successfully.
+2023-11-10 15:03:32.8263 INFO Clicked Number button successfully.
+2023-11-10 15:03:33.0241 INFO Clicked number button successfully.
+2023-11-10 15:03:33.2585 INFO Clicked number button successfully.
+2023-11-10 15:03:33.8587 INFO Clicked number button successfully.
+2023-11-10 15:03:34.4498 INFO Equal button clicked.
+2023-11-10 15:03:34.4498 INFO Clicked Number button successfully.
+2023-11-10 15:03:34.6822 INFO Plus button clicked.
+2023-11-10 15:03:34.6822 INFO Clicked Number button successfully.
+2023-11-10 15:03:35.2667 INFO Clicked number button successfully.
+2023-11-10 15:03:35.4726 INFO Clicked number button successfully.
+2023-11-10 15:03:35.6990 INFO Square button clicked.
+2023-11-10 15:03:35.6990 INFO Clicked Number button successfully.
+2023-11-10 15:22:10.5303 INFO Application 'calcualtor' App launched successfully.
+2023-11-10 15:22:10.6777 INFO Double-clicked Option element successfully.
+2023-11-10 15:22:11.9547 INFO Clicked Mode button successfully.
+2023-11-10 15:22:17.8245 ERROR Error retrieving UI element Mode: Failed to get Name=Standard
+2023-11-10 15:22:17.8245 INFO Clicked number button successfully.
+2023-11-10 15:22:18.1054 INFO Clicked number button successfully.
+2023-11-10 15:22:18.3055 INFO Clicked Number button successfully.
+2023-11-10 15:22:18.5544 INFO Clicked number button successfully.
+2023-11-10 15:22:18.7443 INFO Clicked number button successfully.
+2023-11-10 15:22:19.3458 INFO Clicked number button successfully.
+2023-11-10 15:22:19.6126 INFO Equal button clicked.
+2023-11-10 15:22:19.6126 INFO Clicked Number button successfully.
+2023-11-10 15:22:19.8317 INFO Plus button clicked.
+2023-11-10 15:22:19.8317 INFO Clicked Number button successfully.
+2023-11-10 15:22:20.4230 INFO Clicked Number button successfully.
+2023-11-10 15:22:21.0143 INFO Clicked number button successfully.
+2023-11-10 15:22:21.2285 INFO Clicked number button successfully.
+2023-11-10 15:22:21.4306 INFO Equal button clicked.
+2023-11-10 15:22:21.4306 INFO Clicked Number button successfully.
+2023-11-10 15:22:21.7887 INFO Application 'calcualtor' App launched successfully.
+2023-11-10 15:22:21.8455 INFO Double-clicked Option element successfully.
+2023-11-10 15:22:22.9114 INFO Clicked Mode button successfully.
+2023-11-10 15:22:23.1570 INFO Clicked number button successfully.
+2023-11-10 15:22:23.3949 INFO Clicked number button successfully.
+2023-11-10 15:22:23.6388 INFO Clicked Number button successfully.
+2023-11-10 15:22:23.8574 INFO Clicked number button successfully.
+2023-11-10 15:22:24.0600 INFO Clicked number button successfully.
+2023-11-10 15:22:24.6652 INFO Clicked number button successfully.
+2023-11-10 15:22:25.2564 INFO Equal button clicked.
+2023-11-10 15:22:25.2564 INFO Clicked Number button successfully.
+2023-11-10 15:22:25.5050 INFO Plus button clicked.
+2023-11-10 15:22:25.5050 INFO Clicked Number button successfully.
+2023-11-10 15:22:26.1084 INFO Clicked number button successfully.
+2023-11-10 15:22:26.3299 INFO Clicked number button successfully.
+2023-11-10 15:22:26.5618 INFO Square button clicked.
+2023-11-10 15:22:26.5618 INFO Clicked Number button successfully.
+2023-11-10 15:37:03.6308 INFO Application 'calcualtor' launched successfully.
+2023-11-10 15:37:03.7813 INFO Double-clicked Option element successfully.
+2023-11-10 15:37:05.1739 INFO Clicked Mode button successfully.
+2023-11-10 15:37:10.3095 ERROR Error retrieving UI element Mode: Error occured while geting Name=Standard
+2023-11-10 15:37:10.3095 INFO Clicked number button successfully.
+2023-11-10 15:37:41.5405 ERROR Error getting the application window:
+2023-11-10 15:37:41.5405 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 15:37:41.5405 INFO Clicked number button successfully.
+2023-11-10 15:38:12.4862 ERROR Error getting the application window:
+2023-11-10 15:38:12.4862 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 15:38:12.4862 INFO Clicked Number button successfully.
+2023-11-10 15:38:43.5273 ERROR Error getting the application window:
+2023-11-10 15:38:43.5273 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 15:38:43.5273 INFO Clicked number button successfully.
+2023-11-10 15:39:14.5151 ERROR Error getting the application window:
+2023-11-10 15:39:14.5151 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 15:39:14.5151 INFO Clicked number button successfully.
+2023-11-10 15:39:45.5070 ERROR Error getting the application window:
+2023-11-10 15:39:45.5070 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 15:39:45.5070 INFO Clicked number button successfully.
+2023-11-10 15:40:16.2697 ERROR Error getting the application window:
+2023-11-10 15:40:16.2697 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 15:40:16.2697 INFO Equal button clicked.
+2023-11-10 15:40:16.2697 INFO Clicked Number button successfully.
+2023-11-10 15:40:47.4750 ERROR Error getting the application window:
+2023-11-10 15:40:47.4750 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 15:40:47.4750 INFO Plus button clicked.
+2023-11-10 15:40:47.4750 INFO Clicked Number button successfully.
+2023-11-10 15:41:18.6807 ERROR Error getting the application window:
+2023-11-10 15:41:18.6807 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 15:41:18.6807 INFO Clicked Number button successfully.
+2023-11-10 15:41:49.9935 ERROR Error getting the application window:
+2023-11-10 15:41:49.9935 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 15:41:49.9935 INFO Clicked number button successfully.
+2023-11-10 15:42:21.1158 ERROR Error getting the application window:
+2023-11-10 15:42:21.1158 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 15:42:21.1158 INFO Clicked number button successfully.
+2023-11-10 15:42:52.2683 ERROR Error getting the application window:
+2023-11-10 15:42:52.2683 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 15:42:52.2683 INFO Equal button clicked.
+2023-11-10 15:42:52.2683 INFO Clicked Number button successfully.
+2023-11-10 15:43:23.3003 ERROR Error getting the application window:
+2023-11-10 15:43:23.3003 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 15:43:54.4890 ERROR Error getting the application window:
+2023-11-10 15:43:54.4890 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 15:43:54.5798 INFO Application 'calcualtor' launched successfully.
+2023-11-10 15:43:54.6176 INFO Double-clicked Option element successfully.
+2023-11-10 15:43:55.6756 INFO Clicked Mode button successfully.
+2023-11-10 15:44:01.3604 ERROR Error retrieving UI element Mode: Failed to get Name=Scientific
+2023-11-10 15:44:01.3604 INFO Clicked number button successfully.
+2023-11-10 15:44:01.6122 INFO Clicked number button successfully.
+2023-11-10 15:44:01.8142 INFO Clicked Number button successfully.
+2023-11-10 15:44:02.0273 INFO Clicked number button successfully.
+2023-11-10 15:44:02.2217 INFO Clicked number button successfully.
+2023-11-10 15:44:02.8260 INFO Clicked number button successfully.
+2023-11-10 15:44:03.4113 INFO Equal button clicked.
+2023-11-10 15:44:03.4113 INFO Clicked Number button successfully.
+2023-11-10 15:44:03.6302 INFO Plus button clicked.
+2023-11-10 15:44:03.6302 INFO Clicked Number button successfully.
+2023-11-10 15:44:04.2357 INFO Clicked number button successfully.
+2023-11-10 15:44:04.4384 INFO Clicked number button successfully.
+2023-11-10 15:44:04.6245 INFO Square button clicked.
+2023-11-10 15:44:04.6245 INFO Clicked Number button successfully.

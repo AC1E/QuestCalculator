@@ -1,31 +1,29 @@
 ﻿using System.Configuration;
 using System;
 using TestStack.White;
-using Pilot_FrameWork.Utils.Configuration;
 using Configuration = Pilot_FrameWork.Utils.Configuration.Configuration;
 using System.Xml;
 using System.IO;
 using NLog;
+using Pilot_FrameWork.Utils.Loggers;
 
 namespace Pilot_FrameWork.Items
 {
     public class ZApplication
     {
 
-        private static readonly ILogger Logger = LogManager.GetCurrentClassLogger();
         public static Application application;
         public static void LaunchApplication(string appName)
         {
             try
             {
-                Logger.Info($"Application '{appName}' launched successfully.");
+                Nlogger.Log("Info", $"Application '{appName}' launched successfully.");
                 var appPath = Configuration.Path(appName);
                 application = Application.Launch(appPath);
-                    
             }
             catch (Exception ex)
             {
-                Logger.Error($"Error launching application '{appName}': {ex.Message}");
+                Nlogger.Log("Error", $"Failed launching application '{appName}'");
             }
         }
         public static ZWindow GetApplicationWindow(string title = "")
@@ -38,7 +36,7 @@ namespace Pilot_FrameWork.Items
             }
             catch (Exception ex)
             {
-                Logger.Error($"Error getting the application window: {ex.Message}");
+                Nlogger.Log("Error", $"Error getting the application window:");
                 return null;
             }
         }

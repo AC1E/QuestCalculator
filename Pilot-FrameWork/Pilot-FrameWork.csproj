@@ -183,7 +183,7 @@
     <Compile Include="Items\ZMenu.cs" />
     <Compile Include="Items\ZWindow.cs" />
     <Compile Include="Utils\Configuration\Configuration.cs" />
-    <Compile Include="Utils\Loggers\Logger.cs" />
+    <Compile Include="Utils\Loggers\NLogger.cs" />
     <Compile Include="Utils\ProcessesHelpers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

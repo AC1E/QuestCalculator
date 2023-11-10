@@ -50,8 +50,7 @@ namespace Pilot_FrameWork.Base
             {
                 Logger.Info($"Double-clicked {_friendlyName} element successfully.");
                 var clickMenu = UIGetElement();
-                clickMenu?.DoubleClick();
-               
+                clickMenu?.DoubleClick();  
             }
             catch (Exception ex)
             {

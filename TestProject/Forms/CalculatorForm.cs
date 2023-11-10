@@ -19,7 +19,6 @@ namespace TestProject.Forms
         public CalculatorForm(SearchCriteria searchCriteria, string friendlyName) : base(searchCriteria, friendlyName)
         {
         }
- 
         private ZButtons ButtonPlus   => new ZButtons(SearchCriteria.ByAutomationId("93"), "Number");
         private ZButtons ButtonMPlus  => new ZButtons(SearchCriteria.ByAutomationId("125"), "Number");
         private ZButtons ButtonEqual  => new ZButtons(SearchCriteria.ByAutomationId("121"), "Number");
@@ -31,54 +30,22 @@ namespace TestProject.Forms
             ButtonPlus.Click();
         }
         public void EnterMPlus()
-        {
-            try
-            {
-                Logger.Info("Plus button clicked.");
+        {  
                 ButtonPlus.Click(); 
-            }
-            catch (Exception ex)
-            {
-                Logger.Error($"Error clicking Plus button: {ex.Message}");
-            }
         }
-    
+
         public void EnterEqual()
         {
-            try
-            {
-                Logger.Info("Equal button clicked.");
-                ButtonPlus.Click();
-
-            }
-            catch (Exception ex)
-            {
-                Logger.Error($"Error clicking Equals button: {ex.Message}");
-            }
+    
+            ButtonPlus.Click();
         }
         public void EnterSquare()
-        {
-            try
-            {
-                Logger.Info("Square button clicked.");
-                ButtonSquare.Click();
-            }
-            catch (Exception ex)
-            {
-                Logger.Error($"Error clicking Square button: {ex.Message}");
-            }
+        {  
+            ButtonSquare.Click();
         }
         public void EnterClear()
         {
-            try
-            {
-                Logger.Info("Clear button clicked.");
-                ClearButton.Click();
-            }
-            catch (Exception ex)
-            {
-                Logger.Error($"Error clicking Clear button: {ex.Message}");
-            }
+             ClearButton.Click();
         }
         public ZButtons getButton(string number)
         {
@@ -87,17 +54,14 @@ namespace TestProject.Forms
         }
 
         public void EnterNumber(string number)
+        {
+            for (int i = 0; i < number.Length; i++)
             {
-                for (int i = 0; i < number.Length; i++)
-                {
-                    var value = Char.ToString(number[i]);
-                    ZButtons button = getButton(value);
-                    button.Click();
-                }
+                 var value = Char.ToString(number[i]);
+                 ZButtons button = getButton(value);
+                 button.Click();
             }
-
-       
-
+        }
         public void EnterMode(string Mode)
         {
              ZMenu clickView = new ZMenu(SearchCriteria.ByText("View"), "Option");
@@ -108,20 +72,11 @@ namespace TestProject.Forms
 
         public static string GetResult()
         {
-             ZLabels appLabel = new ZLabels(SearchCriteria.ByAutomationId("158"), "lsbel");
+            ZLabels appLabel = new ZLabels(SearchCriteria.ByAutomationId("158"), "lsbel");
             var ObtainedResult = appLabel.GetLabelText();
-            Console.WriteLine(ObtainedResult);
             return ObtainedResult;
-
-            
-            
-           
-
         }
-
-           
-
-        }
+    }
 }
 
 

@@ -10,6 +10,7 @@ using System.IO;
 using NUnit.Framework;
 using Gherkin.CucumberMessages.Types;
 using NLog;
+using Pilot_FrameWork.Utils.Loggers;
 
 namespace Pilot_FrameWork.Utils.Configuration
 { 
@@ -29,10 +30,11 @@ namespace Pilot_FrameWork.Utils.Configuration
             }
             catch (Exception ex)
             {
-                    Logger.Error($"Error reading configuration file: {ex.Message}");
-                    return null;
+                Nlogger.Log("Error", $"Error reading configuration file:");
+                 return null;
+                
             }
-         }
+        }
             private static string GetPath(string appName)
             {
                 try
@@ -44,14 +46,15 @@ namespace Pilot_FrameWork.Utils.Configuration
                             return line.Replace($"{appName} Path: ", "");
                         }
                     }
-                    Logger.Warn($"Path for {appName} not found in the configuration file.");
+                   Nlogger.Log("Warn" ,$"Path for {appName} not found in the configuration file.");
                     return null;
                 }
                 catch (Exception ex)
                 {
-                    Logger.Error($"Error getting path for {appName}: {ex.Message}");
+                    Nlogger.Log("Error",$"Error getting path for {appName}:");
                     return null;
                 }
+            
             }
             public static string GetWindowName(string appName)
             {
@@ -64,12 +67,12 @@ namespace Pilot_FrameWork.Utils.Configuration
                             return line.Replace($"{appName} WindowName: ", "");
                         }
                     }
-                    Logger.Warn($"WindowName for {appName} not found in the configuration file.");
+                    Nlogger.Log("Error",$"WindowName for {appName} not found in the configuration file.");
                     return null;
                 }
                 catch (Exception ex)
                 {
-                    Logger.Error($"Error getting window name for {appName}: {ex.Message}");
+                    Nlogger.Log("Error",$"Error getting window name for {appName}");
                     return null;
                 }
             }

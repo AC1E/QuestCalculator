@@ -120,7 +120,7 @@ namespace TestProject.Features
  testRunner.And(string.Format(": Use square root if its scientific \'{0}\'", numb3), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
 #line 12
- testRunner.And(string.Format(": The Result should be \'{0}\'", numb4), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+ testRunner.And(string.Format(": The Result should is \'{0}\'", numb4), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
             }
             this.ScenarioCleanup();
