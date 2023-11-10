@@ -1,4 +1,5 @@
-﻿namespace Pilot_FrameWork.Base
+﻿
+namespace Pilot_FrameWork.Base
 {
     internal class BaseForm
     {

@@ -19,7 +19,7 @@ namespace TestProject.Forms
         public CalculatorForm(SearchCriteria searchCriteria, string friendlyName) : base(searchCriteria, friendlyName)
         {
         }
-        private ZButtons button1 = new ZButtons(SearchCriteria.ByAutomationId("131"), "Number1");
+ 
         private ZButtons ButtonPlus   => new ZButtons(SearchCriteria.ByAutomationId("93"), "Number");
         private ZButtons ButtonMPlus  => new ZButtons(SearchCriteria.ByAutomationId("125"), "Number");
         private ZButtons ButtonEqual  => new ZButtons(SearchCriteria.ByAutomationId("121"), "Number");
@@ -34,9 +34,8 @@ namespace TestProject.Forms
         {
             try
             {
-                 Logger.Info("Plus button clicked.");
-                ButtonPlus.Click();
-               
+                Logger.Info("Plus button clicked.");
+                ButtonPlus.Click(); 
             }
             catch (Exception ex)
             {
@@ -63,8 +62,6 @@ namespace TestProject.Forms
             {
                 Logger.Info("Square button clicked.");
                 ButtonSquare.Click();
-
-
             }
             catch (Exception ex)
             {
@@ -73,14 +70,10 @@ namespace TestProject.Forms
         }
         public void EnterClear()
         {
-
             try
             {
                 Logger.Info("Clear button clicked.");
                 ClearButton.Click();
-
-
-
             }
             catch (Exception ex)
             {
@@ -97,7 +90,7 @@ namespace TestProject.Forms
             {
                 for (int i = 0; i < number.Length; i++)
                 {
-                    string value = Char.ToString(number[i]);
+                    var value = Char.ToString(number[i]);
                     ZButtons button = getButton(value);
                     button.Click();
                 }

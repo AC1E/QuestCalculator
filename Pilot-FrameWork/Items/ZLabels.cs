@@ -12,7 +12,6 @@ namespace Pilot_FrameWork.Items
         {
 
         }
-
         public string GetLabelText()
         {
             var uiItem = UIGetElement();

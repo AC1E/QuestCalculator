@@ -7,23 +7,13 @@ namespace TestProject.Hooks
     [Binding]
     public sealed class Hooks1
     {
+        string appname = "calc1";
         private readonly ProcessesHelpers processes = new ProcessesHelpers();
-        [BeforeScenario("@tag1")]
+        [BeforeScenario("CloseAllInstance")]
         public void BeforeScenarioWithTag()
         {
-            string appname = "calc1";
-            processes.KillMultipleInstancesOfProcess(appname);
-        }
-
-        [BeforeScenario(Order = 1)]
-        public void FirstBeforeScenario()
-        {
-        }
-
-        [AfterScenario]
-        public void AfterScenario()
-        {
            
+            processes.KillMultipleInstancesOfProcess(appname);
         }
     }
 }

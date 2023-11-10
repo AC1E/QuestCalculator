@@ -75,13 +75,13 @@ namespace TestProject.Features
         
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Check for result for operation")]
-        [NUnit.Framework.CategoryAttribute("outline")]
+        [NUnit.Framework.CategoryAttribute("CloseAllInstance")]
         [NUnit.Framework.TestCaseAttribute("Standard", "12", "999", "19", "1030", null)]
         [NUnit.Framework.TestCaseAttribute("Scientific", "12", "999", "19", "361", null)]
         public void CheckForResultForOperation(string specificMode, string numb1, string numb2, string numb3, string numb4, string[] exampleTags)
         {
             string[] @__tags = new string[] {
-                    "outline"};
+                    "CloseAllInstance"};
             if ((exampleTags != null))
             {
                 @__tags = System.Linq.Enumerable.ToArray(System.Linq.Enumerable.Concat(@__tags, exampleTags));

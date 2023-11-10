@@ -9,8 +9,6 @@ namespace Pilot_FrameWork.Base
 {
     public class BaseItem
     {
-
-
         private static readonly ILogger Logger = LogManager.GetCurrentClassLogger();
         private SearchCriteria _searchCriteria;
         private string _friendlyName;

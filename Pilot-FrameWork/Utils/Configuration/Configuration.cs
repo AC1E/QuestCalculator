@@ -11,27 +11,29 @@ using NUnit.Framework;
 using Gherkin.CucumberMessages.Types;
 using NLog;
 
-
 namespace Pilot_FrameWork.Utils.Configuration
 { 
-           public class Configuration
-        {
+         public class Configuration
+           {
             private static readonly ILogger Logger = LogManager.GetCurrentClassLogger();
             private static string[] configFileLines;
             public static string Path(string appName)
             {
-                try
-                {
-                    string configFilePath = "C:\\Users\\consani\\source\\repos\\QuestCalculator1\\Pilot-FrameWork\\Utils\\Configuration\\config.txt";
-                    configFileLines = File.ReadAllLines(configFilePath);
-                    return GetPath(appName);
-                }
-                catch (Exception ex)
-                {
+            try
+            {
+                var currentPath = Directory.GetCurrentDirectory();
+                Console.WriteLine(currentPath);
+                var absoultePath = $"{currentPath}/../../../../Pilot-FrameWork/Utils/Configuration/Config.txt";
+
+                configFileLines = File.ReadAllLines(absoultePath);
+                return GetPath(appName);
+            }
+            catch (Exception ex)
+            {
                     Logger.Error($"Error reading configuration file: {ex.Message}");
                     return null;
-                }
             }
+         }
             private static string GetPath(string appName)
             {
                 try

@@ -167,3 +167,1713 @@
 2023-11-09 18:31:01.0580 INFO Clicked number button successfully.
 2023-11-09 18:31:01.3043 INFO Square button clicked.
 2023-11-09 18:31:01.3043 INFO Clicked Number button successfully.
+2023-11-10 10:04:24.2609 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:04:24.2962 ERROR Error reading configuration file: Could not find file 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\bin\Debug\net472\config.txt'.
+2023-11-10 10:04:24.3131 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:04:24.3410 INFO Double-clicked Option element successfully.
+2023-11-10 10:04:24.3410 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3410 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3410 INFO Clicked Mode button successfully.
+2023-11-10 10:04:24.3410 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3410 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3410 INFO Clicked number button successfully.
+2023-11-10 10:04:24.3410 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3410 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3410 INFO Clicked number button successfully.
+2023-11-10 10:04:24.3410 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3410 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3410 INFO Clicked Number button successfully.
+2023-11-10 10:04:24.3410 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3410 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3410 INFO Clicked number button successfully.
+2023-11-10 10:04:24.3410 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Clicked number button successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Clicked number button successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Equal button clicked.
+2023-11-10 10:04:24.3450 INFO Clicked Number button successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Plus button clicked.
+2023-11-10 10:04:24.3450 INFO Clicked Number button successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Clicked Number button successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Clicked number button successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Clicked number button successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Equal button clicked.
+2023-11-10 10:04:24.3450 INFO Clicked Number button successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:04:24.3450 ERROR Error reading configuration file: Could not find file 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\bin\Debug\net472\config.txt'.
+2023-11-10 10:04:24.3450 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:04:24.3450 INFO Double-clicked Option element successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Clicked Mode button successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Clicked number button successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Clicked number button successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Clicked Number button successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Clicked number button successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Clicked number button successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Clicked number button successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Equal button clicked.
+2023-11-10 10:04:24.3450 INFO Clicked Number button successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Plus button clicked.
+2023-11-10 10:04:24.3450 INFO Clicked Number button successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3450 INFO Clicked number button successfully.
+2023-11-10 10:04:24.3450 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3600 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3600 INFO Clicked number button successfully.
+2023-11-10 10:04:24.3600 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3600 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3600 INFO Square button clicked.
+2023-11-10 10:04:24.3600 INFO Clicked Number button successfully.
+2023-11-10 10:04:24.3600 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3600 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3600 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:24.3600 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.2755 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:04:54.3094 ERROR Error reading configuration file: Could not find file 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\bin\Debug\net472\config.txt'.
+2023-11-10 10:04:54.3233 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:04:54.3343 INFO Double-clicked Option element successfully.
+2023-11-10 10:04:54.3343 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 INFO Clicked Mode button successfully.
+2023-11-10 10:04:54.3343 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 INFO Clicked number button successfully.
+2023-11-10 10:04:54.3343 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 INFO Clicked number button successfully.
+2023-11-10 10:04:54.3343 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 INFO Clicked Number button successfully.
+2023-11-10 10:04:54.3343 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 INFO Clicked number button successfully.
+2023-11-10 10:04:54.3343 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 INFO Clicked number button successfully.
+2023-11-10 10:04:54.3343 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 INFO Clicked number button successfully.
+2023-11-10 10:04:54.3343 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 INFO Equal button clicked.
+2023-11-10 10:04:54.3343 INFO Clicked Number button successfully.
+2023-11-10 10:04:54.3343 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 INFO Plus button clicked.
+2023-11-10 10:04:54.3343 INFO Clicked Number button successfully.
+2023-11-10 10:04:54.3343 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 INFO Clicked Number button successfully.
+2023-11-10 10:04:54.3343 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 INFO Clicked number button successfully.
+2023-11-10 10:04:54.3343 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 INFO Clicked number button successfully.
+2023-11-10 10:04:54.3343 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 INFO Equal button clicked.
+2023-11-10 10:04:54.3343 INFO Clicked Number button successfully.
+2023-11-10 10:04:54.3343 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3343 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:04:54.3513 ERROR Error reading configuration file: Could not find file 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\bin\Debug\net472\config.txt'.
+2023-11-10 10:04:54.3513 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:04:54.3513 INFO Double-clicked Option element successfully.
+2023-11-10 10:04:54.3513 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 INFO Clicked Mode button successfully.
+2023-11-10 10:04:54.3513 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 INFO Clicked number button successfully.
+2023-11-10 10:04:54.3513 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 INFO Clicked number button successfully.
+2023-11-10 10:04:54.3513 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 INFO Clicked Number button successfully.
+2023-11-10 10:04:54.3513 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 INFO Clicked number button successfully.
+2023-11-10 10:04:54.3513 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 INFO Clicked number button successfully.
+2023-11-10 10:04:54.3513 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 INFO Clicked number button successfully.
+2023-11-10 10:04:54.3513 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 INFO Equal button clicked.
+2023-11-10 10:04:54.3513 INFO Clicked Number button successfully.
+2023-11-10 10:04:54.3513 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 INFO Plus button clicked.
+2023-11-10 10:04:54.3513 INFO Clicked Number button successfully.
+2023-11-10 10:04:54.3513 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 INFO Clicked number button successfully.
+2023-11-10 10:04:54.3513 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 INFO Clicked number button successfully.
+2023-11-10 10:04:54.3513 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 INFO Square button clicked.
+2023-11-10 10:04:54.3513 INFO Clicked Number button successfully.
+2023-11-10 10:04:54.3513 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:04:54.3513 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.7960 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:06:13.8299 ERROR Error reading configuration file: Could not find file 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\bin\Debug\net472\config.txt'.
+2023-11-10 10:06:13.8299 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:06:13.8538 INFO Double-clicked Option element successfully.
+2023-11-10 10:06:13.8538 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 INFO Clicked Mode button successfully.
+2023-11-10 10:06:13.8538 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 INFO Clicked number button successfully.
+2023-11-10 10:06:13.8538 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 INFO Clicked number button successfully.
+2023-11-10 10:06:13.8538 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 INFO Clicked Number button successfully.
+2023-11-10 10:06:13.8538 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 INFO Clicked number button successfully.
+2023-11-10 10:06:13.8538 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 INFO Clicked number button successfully.
+2023-11-10 10:06:13.8538 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 INFO Clicked number button successfully.
+2023-11-10 10:06:13.8538 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 INFO Equal button clicked.
+2023-11-10 10:06:13.8538 INFO Clicked Number button successfully.
+2023-11-10 10:06:13.8538 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 INFO Plus button clicked.
+2023-11-10 10:06:13.8538 INFO Clicked Number button successfully.
+2023-11-10 10:06:13.8538 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 INFO Clicked Number button successfully.
+2023-11-10 10:06:13.8538 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8538 INFO Clicked number button successfully.
+2023-11-10 10:06:13.8608 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 INFO Clicked number button successfully.
+2023-11-10 10:06:13.8608 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 INFO Equal button clicked.
+2023-11-10 10:06:13.8608 INFO Clicked Number button successfully.
+2023-11-10 10:06:13.8608 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:06:13.8608 ERROR Error reading configuration file: Could not find file 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\bin\Debug\net472\config.txt'.
+2023-11-10 10:06:13.8608 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:06:13.8608 INFO Double-clicked Option element successfully.
+2023-11-10 10:06:13.8608 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 INFO Clicked Mode button successfully.
+2023-11-10 10:06:13.8608 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 INFO Clicked number button successfully.
+2023-11-10 10:06:13.8608 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 INFO Clicked number button successfully.
+2023-11-10 10:06:13.8608 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 INFO Clicked Number button successfully.
+2023-11-10 10:06:13.8608 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 INFO Clicked number button successfully.
+2023-11-10 10:06:13.8608 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 INFO Clicked number button successfully.
+2023-11-10 10:06:13.8608 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 INFO Clicked number button successfully.
+2023-11-10 10:06:13.8608 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 INFO Equal button clicked.
+2023-11-10 10:06:13.8608 INFO Clicked Number button successfully.
+2023-11-10 10:06:13.8608 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 INFO Plus button clicked.
+2023-11-10 10:06:13.8608 INFO Clicked Number button successfully.
+2023-11-10 10:06:13.8608 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 INFO Clicked number button successfully.
+2023-11-10 10:06:13.8608 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 INFO Clicked number button successfully.
+2023-11-10 10:06:13.8608 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 INFO Square button clicked.
+2023-11-10 10:06:13.8608 INFO Clicked Number button successfully.
+2023-11-10 10:06:13.8608 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:06:13.8608 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.4469 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:08:15.4848 ERROR Error reading configuration file: Could not find file 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\bin\Debug\net472\config.txt'.
+2023-11-10 10:08:15.4998 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:08:15.5097 INFO Double-clicked Option element successfully.
+2023-11-10 10:08:15.5097 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 INFO Clicked Mode button successfully.
+2023-11-10 10:08:15.5097 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 INFO Clicked number button successfully.
+2023-11-10 10:08:15.5097 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 INFO Clicked number button successfully.
+2023-11-10 10:08:15.5097 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 INFO Clicked Number button successfully.
+2023-11-10 10:08:15.5097 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 INFO Clicked number button successfully.
+2023-11-10 10:08:15.5097 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 INFO Clicked number button successfully.
+2023-11-10 10:08:15.5097 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 INFO Clicked number button successfully.
+2023-11-10 10:08:15.5097 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 INFO Equal button clicked.
+2023-11-10 10:08:15.5097 INFO Clicked Number button successfully.
+2023-11-10 10:08:15.5097 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 INFO Plus button clicked.
+2023-11-10 10:08:15.5097 INFO Clicked Number button successfully.
+2023-11-10 10:08:15.5097 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 INFO Clicked Number button successfully.
+2023-11-10 10:08:15.5097 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5097 INFO Clicked number button successfully.
+2023-11-10 10:08:15.5167 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 INFO Clicked number button successfully.
+2023-11-10 10:08:15.5167 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 INFO Equal button clicked.
+2023-11-10 10:08:15.5167 INFO Clicked Number button successfully.
+2023-11-10 10:08:15.5167 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:08:15.5167 ERROR Error reading configuration file: Could not find file 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\bin\Debug\net472\config.txt'.
+2023-11-10 10:08:15.5167 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:08:15.5167 INFO Double-clicked Option element successfully.
+2023-11-10 10:08:15.5167 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 INFO Clicked Mode button successfully.
+2023-11-10 10:08:15.5167 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 INFO Clicked number button successfully.
+2023-11-10 10:08:15.5167 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 INFO Clicked number button successfully.
+2023-11-10 10:08:15.5167 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 INFO Clicked Number button successfully.
+2023-11-10 10:08:15.5167 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 INFO Clicked number button successfully.
+2023-11-10 10:08:15.5167 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 INFO Clicked number button successfully.
+2023-11-10 10:08:15.5167 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 INFO Clicked number button successfully.
+2023-11-10 10:08:15.5167 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 INFO Equal button clicked.
+2023-11-10 10:08:15.5167 INFO Clicked Number button successfully.
+2023-11-10 10:08:15.5167 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 INFO Plus button clicked.
+2023-11-10 10:08:15.5167 INFO Clicked Number button successfully.
+2023-11-10 10:08:15.5167 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 INFO Clicked number button successfully.
+2023-11-10 10:08:15.5167 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 INFO Clicked number button successfully.
+2023-11-10 10:08:15.5167 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 INFO Square button clicked.
+2023-11-10 10:08:15.5167 INFO Clicked Number button successfully.
+2023-11-10 10:08:15.5167 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:08:15.5167 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.7745 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:10:18.8094 ERROR Error reading configuration file: Could not find file 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\bin\Debug\net472\config.txt'.
+2023-11-10 10:10:18.8233 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:10:18.8333 INFO Double-clicked Option element successfully.
+2023-11-10 10:10:18.8333 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 INFO Clicked Mode button successfully.
+2023-11-10 10:10:18.8333 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 INFO Clicked number button successfully.
+2023-11-10 10:10:18.8333 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 INFO Clicked number button successfully.
+2023-11-10 10:10:18.8333 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 INFO Clicked Number button successfully.
+2023-11-10 10:10:18.8333 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 INFO Clicked number button successfully.
+2023-11-10 10:10:18.8333 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 INFO Clicked number button successfully.
+2023-11-10 10:10:18.8333 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 INFO Clicked number button successfully.
+2023-11-10 10:10:18.8333 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 INFO Equal button clicked.
+2023-11-10 10:10:18.8333 INFO Clicked Number button successfully.
+2023-11-10 10:10:18.8333 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 INFO Plus button clicked.
+2023-11-10 10:10:18.8333 INFO Clicked Number button successfully.
+2023-11-10 10:10:18.8333 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 INFO Clicked Number button successfully.
+2023-11-10 10:10:18.8333 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 INFO Clicked number button successfully.
+2023-11-10 10:10:18.8333 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 INFO Clicked number button successfully.
+2023-11-10 10:10:18.8333 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 INFO Equal button clicked.
+2023-11-10 10:10:18.8333 INFO Clicked Number button successfully.
+2023-11-10 10:10:18.8333 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8333 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:10:18.8482 ERROR Error reading configuration file: Could not find file 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\bin\Debug\net472\config.txt'.
+2023-11-10 10:10:18.8482 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:10:18.8482 INFO Double-clicked Option element successfully.
+2023-11-10 10:10:18.8482 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 INFO Clicked Mode button successfully.
+2023-11-10 10:10:18.8482 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 INFO Clicked number button successfully.
+2023-11-10 10:10:18.8482 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 INFO Clicked number button successfully.
+2023-11-10 10:10:18.8482 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 INFO Clicked Number button successfully.
+2023-11-10 10:10:18.8482 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 INFO Clicked number button successfully.
+2023-11-10 10:10:18.8482 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 INFO Clicked number button successfully.
+2023-11-10 10:10:18.8482 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 INFO Clicked number button successfully.
+2023-11-10 10:10:18.8482 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 INFO Equal button clicked.
+2023-11-10 10:10:18.8482 INFO Clicked Number button successfully.
+2023-11-10 10:10:18.8482 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 INFO Plus button clicked.
+2023-11-10 10:10:18.8482 INFO Clicked Number button successfully.
+2023-11-10 10:10:18.8482 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 INFO Clicked number button successfully.
+2023-11-10 10:10:18.8482 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 INFO Clicked number button successfully.
+2023-11-10 10:10:18.8482 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 INFO Square button clicked.
+2023-11-10 10:10:18.8482 INFO Clicked Number button successfully.
+2023-11-10 10:10:18.8482 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:10:18.8482 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.4739 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:11:32.5078 ERROR Error reading configuration file: Could not find file 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\bin\Debug\net472\config.txt'.
+2023-11-10 10:11:32.5227 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:11:32.5327 INFO Double-clicked Option element successfully.
+2023-11-10 10:11:32.5327 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 INFO Clicked Mode button successfully.
+2023-11-10 10:11:32.5327 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 INFO Clicked number button successfully.
+2023-11-10 10:11:32.5327 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 INFO Clicked number button successfully.
+2023-11-10 10:11:32.5327 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 INFO Clicked Number button successfully.
+2023-11-10 10:11:32.5327 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 INFO Clicked number button successfully.
+2023-11-10 10:11:32.5327 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 INFO Clicked number button successfully.
+2023-11-10 10:11:32.5327 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 INFO Clicked number button successfully.
+2023-11-10 10:11:32.5327 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 INFO Equal button clicked.
+2023-11-10 10:11:32.5327 INFO Clicked Number button successfully.
+2023-11-10 10:11:32.5327 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 INFO Plus button clicked.
+2023-11-10 10:11:32.5327 INFO Clicked Number button successfully.
+2023-11-10 10:11:32.5327 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 INFO Clicked Number button successfully.
+2023-11-10 10:11:32.5327 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 INFO Clicked number button successfully.
+2023-11-10 10:11:32.5327 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 INFO Clicked number button successfully.
+2023-11-10 10:11:32.5327 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 INFO Equal button clicked.
+2023-11-10 10:11:32.5327 INFO Clicked Number button successfully.
+2023-11-10 10:11:32.5327 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5327 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:11:32.5476 ERROR Error reading configuration file: Could not find file 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\bin\Debug\net472\config.txt'.
+2023-11-10 10:11:32.5476 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:11:32.5476 INFO Double-clicked Option element successfully.
+2023-11-10 10:11:32.5476 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 INFO Clicked Mode button successfully.
+2023-11-10 10:11:32.5476 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 INFO Clicked number button successfully.
+2023-11-10 10:11:32.5476 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 INFO Clicked number button successfully.
+2023-11-10 10:11:32.5476 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 INFO Clicked Number button successfully.
+2023-11-10 10:11:32.5476 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 INFO Clicked number button successfully.
+2023-11-10 10:11:32.5476 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 INFO Clicked number button successfully.
+2023-11-10 10:11:32.5476 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 INFO Clicked number button successfully.
+2023-11-10 10:11:32.5476 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 INFO Equal button clicked.
+2023-11-10 10:11:32.5476 INFO Clicked Number button successfully.
+2023-11-10 10:11:32.5476 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 INFO Plus button clicked.
+2023-11-10 10:11:32.5476 INFO Clicked Number button successfully.
+2023-11-10 10:11:32.5476 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 INFO Clicked number button successfully.
+2023-11-10 10:11:32.5476 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 INFO Clicked number button successfully.
+2023-11-10 10:11:32.5476 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 INFO Square button clicked.
+2023-11-10 10:11:32.5476 INFO Clicked Number button successfully.
+2023-11-10 10:11:32.5476 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:11:32.5476 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:12:41.9658 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:12:41.9996 ERROR Error reading configuration file: Could not find file 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\bin\Debug\net472\config.txt'.
+2023-11-10 10:12:42.0156 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:12:42.0265 INFO Double-clicked Option element successfully.
+2023-11-10 10:12:42.0265 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0265 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0265 INFO Clicked Mode button successfully.
+2023-11-10 10:12:42.0265 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0265 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0265 INFO Clicked number button successfully.
+2023-11-10 10:12:42.0265 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0265 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0265 INFO Clicked number button successfully.
+2023-11-10 10:12:42.0265 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0265 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0265 INFO Clicked Number button successfully.
+2023-11-10 10:12:42.0265 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0265 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0265 INFO Clicked number button successfully.
+2023-11-10 10:12:42.0265 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0265 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0265 INFO Clicked number button successfully.
+2023-11-10 10:12:42.0265 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0265 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0265 INFO Clicked number button successfully.
+2023-11-10 10:12:42.0265 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0265 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0265 INFO Equal button clicked.
+2023-11-10 10:12:42.0265 INFO Clicked Number button successfully.
+2023-11-10 10:12:42.0265 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0265 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0325 INFO Plus button clicked.
+2023-11-10 10:12:42.0325 INFO Clicked Number button successfully.
+2023-11-10 10:12:42.0325 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0325 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0325 INFO Clicked Number button successfully.
+2023-11-10 10:12:42.0325 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0325 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0325 INFO Clicked number button successfully.
+2023-11-10 10:12:42.0325 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0325 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0325 INFO Clicked number button successfully.
+2023-11-10 10:12:42.0325 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0325 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0325 INFO Equal button clicked.
+2023-11-10 10:12:42.0325 INFO Clicked Number button successfully.
+2023-11-10 10:12:42.0325 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0325 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0325 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0325 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0325 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:12:42.0325 ERROR Error reading configuration file: Could not find file 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\bin\Debug\net472\config.txt'.
+2023-11-10 10:12:42.0325 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:12:42.0325 INFO Double-clicked Option element successfully.
+2023-11-10 10:12:42.0325 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0325 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0325 INFO Clicked Mode button successfully.
+2023-11-10 10:12:42.0325 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0325 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0325 INFO Clicked number button successfully.
+2023-11-10 10:12:42.0325 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 INFO Clicked number button successfully.
+2023-11-10 10:12:42.0480 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 INFO Clicked Number button successfully.
+2023-11-10 10:12:42.0480 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 INFO Clicked number button successfully.
+2023-11-10 10:12:42.0480 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 INFO Clicked number button successfully.
+2023-11-10 10:12:42.0480 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 INFO Clicked number button successfully.
+2023-11-10 10:12:42.0480 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 INFO Equal button clicked.
+2023-11-10 10:12:42.0480 INFO Clicked Number button successfully.
+2023-11-10 10:12:42.0480 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 INFO Plus button clicked.
+2023-11-10 10:12:42.0480 INFO Clicked Number button successfully.
+2023-11-10 10:12:42.0480 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 INFO Clicked number button successfully.
+2023-11-10 10:12:42.0480 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 INFO Clicked number button successfully.
+2023-11-10 10:12:42.0480 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 INFO Square button clicked.
+2023-11-10 10:12:42.0480 INFO Clicked Number button successfully.
+2023-11-10 10:12:42.0480 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:12:42.0480 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2348 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:15:02.2666 ERROR Error reading configuration file: Could not find file 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\bin\Debug\net472\config.txt'.
+2023-11-10 10:15:02.2666 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:15:02.2895 INFO Double-clicked Option element successfully.
+2023-11-10 10:15:02.2895 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 INFO Clicked Mode button successfully.
+2023-11-10 10:15:02.2895 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 INFO Clicked number button successfully.
+2023-11-10 10:15:02.2895 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 INFO Clicked number button successfully.
+2023-11-10 10:15:02.2895 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 INFO Clicked Number button successfully.
+2023-11-10 10:15:02.2895 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 INFO Clicked number button successfully.
+2023-11-10 10:15:02.2895 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 INFO Clicked number button successfully.
+2023-11-10 10:15:02.2895 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 INFO Clicked number button successfully.
+2023-11-10 10:15:02.2895 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 INFO Equal button clicked.
+2023-11-10 10:15:02.2895 INFO Clicked Number button successfully.
+2023-11-10 10:15:02.2895 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 INFO Plus button clicked.
+2023-11-10 10:15:02.2895 INFO Clicked Number button successfully.
+2023-11-10 10:15:02.2895 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 INFO Clicked Number button successfully.
+2023-11-10 10:15:02.2895 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 INFO Clicked number button successfully.
+2023-11-10 10:15:02.2895 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 INFO Clicked number button successfully.
+2023-11-10 10:15:02.2895 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 INFO Equal button clicked.
+2023-11-10 10:15:02.2895 INFO Clicked Number button successfully.
+2023-11-10 10:15:02.2895 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.2895 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:15:02.3035 ERROR Error reading configuration file: Could not find file 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\bin\Debug\net472\config.txt'.
+2023-11-10 10:15:02.3035 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:15:02.3035 INFO Double-clicked Option element successfully.
+2023-11-10 10:15:02.3035 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 INFO Clicked Mode button successfully.
+2023-11-10 10:15:02.3035 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 INFO Clicked number button successfully.
+2023-11-10 10:15:02.3035 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 INFO Clicked number button successfully.
+2023-11-10 10:15:02.3035 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 INFO Clicked Number button successfully.
+2023-11-10 10:15:02.3035 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 INFO Clicked number button successfully.
+2023-11-10 10:15:02.3035 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 INFO Clicked number button successfully.
+2023-11-10 10:15:02.3035 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 INFO Clicked number button successfully.
+2023-11-10 10:15:02.3035 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 INFO Equal button clicked.
+2023-11-10 10:15:02.3035 INFO Clicked Number button successfully.
+2023-11-10 10:15:02.3035 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 INFO Plus button clicked.
+2023-11-10 10:15:02.3035 INFO Clicked Number button successfully.
+2023-11-10 10:15:02.3035 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 INFO Clicked number button successfully.
+2023-11-10 10:15:02.3035 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 INFO Clicked number button successfully.
+2023-11-10 10:15:02.3035 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 INFO Square button clicked.
+2023-11-10 10:15:02.3035 INFO Clicked Number button successfully.
+2023-11-10 10:15:02.3035 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:15:02.3035 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.0294 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:35:13.0821 ERROR Error reading configuration file: Illegal characters in path.
+2023-11-10 10:35:13.0971 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:35:13.0971 INFO Double-clicked Option element successfully.
+2023-11-10 10:35:13.0971 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.0971 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.0971 INFO Clicked Mode button successfully.
+2023-11-10 10:35:13.0971 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.0971 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Clicked number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Clicked number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Clicked Number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Clicked number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Clicked number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Clicked number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Equal button clicked.
+2023-11-10 10:35:13.1101 INFO Clicked Number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Plus button clicked.
+2023-11-10 10:35:13.1101 INFO Clicked Number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Clicked Number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Clicked number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Clicked number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Equal button clicked.
+2023-11-10 10:35:13.1101 INFO Clicked Number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:35:13.1101 ERROR Error reading configuration file: Illegal characters in path.
+2023-11-10 10:35:13.1101 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:35:13.1101 INFO Double-clicked Option element successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Clicked Mode button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Clicked number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Clicked number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Clicked Number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Clicked number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Clicked number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Clicked number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Equal button clicked.
+2023-11-10 10:35:13.1101 INFO Clicked Number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1101 INFO Plus button clicked.
+2023-11-10 10:35:13.1101 INFO Clicked Number button successfully.
+2023-11-10 10:35:13.1101 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1260 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1260 INFO Clicked number button successfully.
+2023-11-10 10:35:13.1260 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1260 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1260 INFO Clicked number button successfully.
+2023-11-10 10:35:13.1260 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1260 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1260 INFO Square button clicked.
+2023-11-10 10:35:13.1260 INFO Clicked Number button successfully.
+2023-11-10 10:35:13.1260 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1260 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1260 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:35:13.1260 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5359 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:36:07.5658 ERROR Error reading configuration file: Cannot create "C:\Users\consani\source\repos\QuestCalculator1\Pilot-FrameWork\Utils\Configuration\config.txt" because a file or directory with the same name already exists.
+2023-11-10 10:36:07.5787 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:36:07.5787 INFO Double-clicked Option element successfully.
+2023-11-10 10:36:07.5787 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 INFO Clicked Mode button successfully.
+2023-11-10 10:36:07.5787 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 INFO Clicked number button successfully.
+2023-11-10 10:36:07.5787 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 INFO Clicked number button successfully.
+2023-11-10 10:36:07.5787 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 INFO Clicked Number button successfully.
+2023-11-10 10:36:07.5787 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 INFO Clicked number button successfully.
+2023-11-10 10:36:07.5787 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 INFO Clicked number button successfully.
+2023-11-10 10:36:07.5787 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 INFO Clicked number button successfully.
+2023-11-10 10:36:07.5787 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 INFO Equal button clicked.
+2023-11-10 10:36:07.5787 INFO Clicked Number button successfully.
+2023-11-10 10:36:07.5787 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 INFO Plus button clicked.
+2023-11-10 10:36:07.5787 INFO Clicked Number button successfully.
+2023-11-10 10:36:07.5787 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 INFO Clicked Number button successfully.
+2023-11-10 10:36:07.5787 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 INFO Clicked number button successfully.
+2023-11-10 10:36:07.5787 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 INFO Clicked number button successfully.
+2023-11-10 10:36:07.5787 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 INFO Equal button clicked.
+2023-11-10 10:36:07.5787 INFO Clicked Number button successfully.
+2023-11-10 10:36:07.5787 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5787 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:36:07.5947 ERROR Error reading configuration file: Cannot create "C:\Users\consani\source\repos\QuestCalculator1\Pilot-FrameWork\Utils\Configuration\config.txt" because a file or directory with the same name already exists.
+2023-11-10 10:36:07.5947 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:36:07.5947 INFO Double-clicked Option element successfully.
+2023-11-10 10:36:07.5947 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 INFO Clicked Mode button successfully.
+2023-11-10 10:36:07.5947 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 INFO Clicked number button successfully.
+2023-11-10 10:36:07.5947 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 INFO Clicked number button successfully.
+2023-11-10 10:36:07.5947 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 INFO Clicked Number button successfully.
+2023-11-10 10:36:07.5947 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 INFO Clicked number button successfully.
+2023-11-10 10:36:07.5947 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 INFO Clicked number button successfully.
+2023-11-10 10:36:07.5947 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 INFO Clicked number button successfully.
+2023-11-10 10:36:07.5947 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 INFO Equal button clicked.
+2023-11-10 10:36:07.5947 INFO Clicked Number button successfully.
+2023-11-10 10:36:07.5947 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 INFO Plus button clicked.
+2023-11-10 10:36:07.5947 INFO Clicked Number button successfully.
+2023-11-10 10:36:07.5947 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 INFO Clicked number button successfully.
+2023-11-10 10:36:07.5947 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 INFO Clicked number button successfully.
+2023-11-10 10:36:07.5947 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 INFO Square button clicked.
+2023-11-10 10:36:07.5947 INFO Clicked Number button successfully.
+2023-11-10 10:36:07.5947 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:36:07.5947 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8222 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:37:36.8541 ERROR Error reading configuration file: Could not find a part of the path 'C:\Users\consani\source\repos\QuestCalculator1\Pilot-FrameWork\Utils\Configuration\config.txt\config.txt'.
+2023-11-10 10:37:36.8680 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:37:36.8780 INFO Double-clicked Option element successfully.
+2023-11-10 10:37:36.8780 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 INFO Clicked Mode button successfully.
+2023-11-10 10:37:36.8780 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 INFO Clicked number button successfully.
+2023-11-10 10:37:36.8780 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 INFO Clicked number button successfully.
+2023-11-10 10:37:36.8780 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 INFO Clicked Number button successfully.
+2023-11-10 10:37:36.8780 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 INFO Clicked number button successfully.
+2023-11-10 10:37:36.8780 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 INFO Clicked number button successfully.
+2023-11-10 10:37:36.8780 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 INFO Clicked number button successfully.
+2023-11-10 10:37:36.8780 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 INFO Equal button clicked.
+2023-11-10 10:37:36.8780 INFO Clicked Number button successfully.
+2023-11-10 10:37:36.8780 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 INFO Plus button clicked.
+2023-11-10 10:37:36.8780 INFO Clicked Number button successfully.
+2023-11-10 10:37:36.8780 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 INFO Clicked Number button successfully.
+2023-11-10 10:37:36.8780 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 INFO Clicked number button successfully.
+2023-11-10 10:37:36.8780 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 INFO Clicked number button successfully.
+2023-11-10 10:37:36.8780 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 INFO Equal button clicked.
+2023-11-10 10:37:36.8780 INFO Clicked Number button successfully.
+2023-11-10 10:37:36.8780 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8780 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:37:36.8919 ERROR Error reading configuration file: Could not find a part of the path 'C:\Users\consani\source\repos\QuestCalculator1\Pilot-FrameWork\Utils\Configuration\config.txt\config.txt'.
+2023-11-10 10:37:36.8919 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:37:36.8919 INFO Double-clicked Option element successfully.
+2023-11-10 10:37:36.8919 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 INFO Clicked Mode button successfully.
+2023-11-10 10:37:36.8919 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 INFO Clicked number button successfully.
+2023-11-10 10:37:36.8919 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 INFO Clicked number button successfully.
+2023-11-10 10:37:36.8919 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 INFO Clicked Number button successfully.
+2023-11-10 10:37:36.8919 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 INFO Clicked number button successfully.
+2023-11-10 10:37:36.8919 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 INFO Clicked number button successfully.
+2023-11-10 10:37:36.8919 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 INFO Clicked number button successfully.
+2023-11-10 10:37:36.8919 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 INFO Equal button clicked.
+2023-11-10 10:37:36.8919 INFO Clicked Number button successfully.
+2023-11-10 10:37:36.8919 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 INFO Plus button clicked.
+2023-11-10 10:37:36.8919 INFO Clicked Number button successfully.
+2023-11-10 10:37:36.8919 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 INFO Clicked number button successfully.
+2023-11-10 10:37:36.8919 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 INFO Clicked number button successfully.
+2023-11-10 10:37:36.8919 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 INFO Square button clicked.
+2023-11-10 10:37:36.8919 INFO Clicked Number button successfully.
+2023-11-10 10:37:36.8919 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:37:36.8919 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:38:52.4577 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:38:52.5962 INFO Double-clicked Option element successfully.
+2023-11-10 10:38:53.9280 INFO Clicked Mode button successfully.
+2023-11-10 10:38:54.1310 INFO Clicked number button successfully.
+2023-11-10 10:38:54.3662 INFO Clicked number button successfully.
+2023-11-10 10:38:54.5374 INFO Clicked Number button successfully.
+2023-11-10 10:38:54.7409 INFO Clicked number button successfully.
+2023-11-10 10:38:54.9456 INFO Clicked number button successfully.
+2023-11-10 10:38:55.5475 INFO Clicked number button successfully.
+2023-11-10 10:38:56.1538 INFO Equal button clicked.
+2023-11-10 10:38:56.1538 INFO Clicked Number button successfully.
+2023-11-10 10:38:56.4181 INFO Plus button clicked.
+2023-11-10 10:38:56.4181 INFO Clicked Number button successfully.
+2023-11-10 10:38:57.0171 INFO Clicked Number button successfully.
+2023-11-10 10:38:57.6164 INFO Clicked number button successfully.
+2023-11-10 10:38:57.8283 INFO Clicked number button successfully.
+2023-11-10 10:38:58.0624 INFO Equal button clicked.
+2023-11-10 10:38:58.0634 INFO Clicked Number button successfully.
+2023-11-10 10:38:58.3424 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:38:58.3654 INFO Double-clicked Option element successfully.
+2023-11-10 10:38:59.4006 INFO Clicked Mode button successfully.
+2023-11-10 10:38:59.6427 INFO Clicked number button successfully.
+2023-11-10 10:39:00.0688 INFO Clicked number button successfully.
+2023-11-10 10:39:00.2574 INFO Clicked Number button successfully.
+2023-11-10 10:39:00.4743 INFO Clicked number button successfully.
+2023-11-10 10:39:00.6733 INFO Clicked number button successfully.
+2023-11-10 10:39:01.2641 INFO Clicked number button successfully.
+2023-11-10 10:39:01.8596 INFO Equal button clicked.
+2023-11-10 10:39:01.8596 INFO Clicked Number button successfully.
+2023-11-10 10:39:02.0957 INFO Plus button clicked.
+2023-11-10 10:39:02.0957 INFO Clicked Number button successfully.
+2023-11-10 10:39:02.6831 INFO Clicked number button successfully.
+2023-11-10 10:39:02.8728 INFO Clicked number button successfully.
+2023-11-10 10:39:03.1070 INFO Square button clicked.
+2023-11-10 10:39:03.1070 INFO Clicked Number button successfully.
+2023-11-10 10:57:28.3450 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:57:28.3756 ERROR Error reading configuration file: Could not find a part of the path 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\Configuration\AppConfig.txt'.
+2023-11-10 10:57:28.3756 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:57:28.3976 INFO Double-clicked Option element successfully.
+2023-11-10 10:57:28.3976 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 INFO Clicked Mode button successfully.
+2023-11-10 10:57:28.3976 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 INFO Clicked number button successfully.
+2023-11-10 10:57:28.3976 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 INFO Clicked number button successfully.
+2023-11-10 10:57:28.3976 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 INFO Clicked Number button successfully.
+2023-11-10 10:57:28.3976 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 INFO Clicked number button successfully.
+2023-11-10 10:57:28.3976 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 INFO Clicked number button successfully.
+2023-11-10 10:57:28.3976 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 INFO Clicked number button successfully.
+2023-11-10 10:57:28.3976 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 INFO Equal button clicked.
+2023-11-10 10:57:28.3976 INFO Clicked Number button successfully.
+2023-11-10 10:57:28.3976 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 INFO Plus button clicked.
+2023-11-10 10:57:28.3976 INFO Clicked Number button successfully.
+2023-11-10 10:57:28.3976 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 INFO Clicked Number button successfully.
+2023-11-10 10:57:28.3976 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 INFO Clicked number button successfully.
+2023-11-10 10:57:28.3976 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 INFO Clicked number button successfully.
+2023-11-10 10:57:28.3976 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 INFO Equal button clicked.
+2023-11-10 10:57:28.3976 INFO Clicked Number button successfully.
+2023-11-10 10:57:28.3976 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.3976 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:57:28.4124 ERROR Error reading configuration file: Could not find a part of the path 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\Configuration\AppConfig.txt'.
+2023-11-10 10:57:28.4124 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:57:28.4124 INFO Double-clicked Option element successfully.
+2023-11-10 10:57:28.4124 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 INFO Clicked Mode button successfully.
+2023-11-10 10:57:28.4124 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 INFO Clicked number button successfully.
+2023-11-10 10:57:28.4124 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 INFO Clicked number button successfully.
+2023-11-10 10:57:28.4124 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 INFO Clicked Number button successfully.
+2023-11-10 10:57:28.4124 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 INFO Clicked number button successfully.
+2023-11-10 10:57:28.4124 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 INFO Clicked number button successfully.
+2023-11-10 10:57:28.4124 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 INFO Clicked number button successfully.
+2023-11-10 10:57:28.4124 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 INFO Equal button clicked.
+2023-11-10 10:57:28.4124 INFO Clicked Number button successfully.
+2023-11-10 10:57:28.4124 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 INFO Plus button clicked.
+2023-11-10 10:57:28.4124 INFO Clicked Number button successfully.
+2023-11-10 10:57:28.4124 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 INFO Clicked number button successfully.
+2023-11-10 10:57:28.4124 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 INFO Clicked number button successfully.
+2023-11-10 10:57:28.4124 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 INFO Square button clicked.
+2023-11-10 10:57:28.4124 INFO Clicked Number button successfully.
+2023-11-10 10:57:28.4124 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:57:28.4124 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5414 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:58:26.5733 ERROR Error reading configuration file: Could not find a part of the path 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\Configuration\AppConfig.txt'.
+2023-11-10 10:58:26.5884 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:58:26.5974 INFO Double-clicked Option element successfully.
+2023-11-10 10:58:26.5974 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 INFO Clicked Mode button successfully.
+2023-11-10 10:58:26.5974 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 INFO Clicked number button successfully.
+2023-11-10 10:58:26.5974 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 INFO Clicked number button successfully.
+2023-11-10 10:58:26.5974 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 INFO Clicked Number button successfully.
+2023-11-10 10:58:26.5974 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 INFO Clicked number button successfully.
+2023-11-10 10:58:26.5974 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 INFO Clicked number button successfully.
+2023-11-10 10:58:26.5974 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 INFO Clicked number button successfully.
+2023-11-10 10:58:26.5974 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 INFO Equal button clicked.
+2023-11-10 10:58:26.5974 INFO Clicked Number button successfully.
+2023-11-10 10:58:26.5974 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 INFO Plus button clicked.
+2023-11-10 10:58:26.5974 INFO Clicked Number button successfully.
+2023-11-10 10:58:26.5974 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 INFO Clicked Number button successfully.
+2023-11-10 10:58:26.5974 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 INFO Clicked number button successfully.
+2023-11-10 10:58:26.5974 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 INFO Clicked number button successfully.
+2023-11-10 10:58:26.5974 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 INFO Equal button clicked.
+2023-11-10 10:58:26.5974 INFO Clicked Number button successfully.
+2023-11-10 10:58:26.5974 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.5974 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 INFO Application 'calcualtor' launched successfully.
+2023-11-10 10:58:26.6122 ERROR Error reading configuration file: Could not find a part of the path 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\Configuration\AppConfig.txt'.
+2023-11-10 10:58:26.6122 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 10:58:26.6122 INFO Double-clicked Option element successfully.
+2023-11-10 10:58:26.6122 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 INFO Clicked Mode button successfully.
+2023-11-10 10:58:26.6122 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 INFO Clicked number button successfully.
+2023-11-10 10:58:26.6122 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 INFO Clicked number button successfully.
+2023-11-10 10:58:26.6122 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 INFO Clicked Number button successfully.
+2023-11-10 10:58:26.6122 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 INFO Clicked number button successfully.
+2023-11-10 10:58:26.6122 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 INFO Clicked number button successfully.
+2023-11-10 10:58:26.6122 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 INFO Clicked number button successfully.
+2023-11-10 10:58:26.6122 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 INFO Equal button clicked.
+2023-11-10 10:58:26.6122 INFO Clicked Number button successfully.
+2023-11-10 10:58:26.6122 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 INFO Plus button clicked.
+2023-11-10 10:58:26.6122 INFO Clicked Number button successfully.
+2023-11-10 10:58:26.6122 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 INFO Clicked number button successfully.
+2023-11-10 10:58:26.6122 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 INFO Clicked number button successfully.
+2023-11-10 10:58:26.6122 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 INFO Square button clicked.
+2023-11-10 10:58:26.6122 INFO Clicked Number button successfully.
+2023-11-10 10:58:26.6122 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 10:58:26.6122 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6189 INFO Application 'calcualtor' launched successfully.
+2023-11-10 11:00:39.6497 ERROR Error reading configuration file: Could not find a part of the path 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\Configuration\Config.txt'.
+2023-11-10 11:00:39.6637 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 11:00:39.6637 INFO Double-clicked Option element successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Clicked Mode button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Clicked number button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Clicked number button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Clicked Number button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Clicked number button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Clicked number button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Clicked number button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Equal button clicked.
+2023-11-10 11:00:39.6726 INFO Clicked Number button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Plus button clicked.
+2023-11-10 11:00:39.6726 INFO Clicked Number button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Clicked Number button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Clicked number button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Clicked number button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Equal button clicked.
+2023-11-10 11:00:39.6726 INFO Clicked Number button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Application 'calcualtor' launched successfully.
+2023-11-10 11:00:39.6726 ERROR Error reading configuration file: Could not find a part of the path 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\Configuration\Config.txt'.
+2023-11-10 11:00:39.6726 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 11:00:39.6726 INFO Double-clicked Option element successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Clicked Mode button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Clicked number button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Clicked number button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Clicked Number button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Clicked number button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Clicked number button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 INFO Clicked number button successfully.
+2023-11-10 11:00:39.6726 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6726 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6886 INFO Equal button clicked.
+2023-11-10 11:00:39.6886 INFO Clicked Number button successfully.
+2023-11-10 11:00:39.6886 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6886 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6886 INFO Plus button clicked.
+2023-11-10 11:00:39.6886 INFO Clicked Number button successfully.
+2023-11-10 11:00:39.6886 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6886 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6886 INFO Clicked number button successfully.
+2023-11-10 11:00:39.6886 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6886 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6886 INFO Clicked number button successfully.
+2023-11-10 11:00:39.6886 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6886 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6886 INFO Square button clicked.
+2023-11-10 11:00:39.6886 INFO Clicked Number button successfully.
+2023-11-10 11:00:39.6886 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6886 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6886 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:00:39.6886 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3032 INFO Application 'calcualtor' launched successfully.
+2023-11-10 11:01:04.3332 ERROR Error reading configuration file: Could not find a part of the path 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\Configuration\Config.txt'.
+2023-11-10 11:01:04.3472 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 11:01:04.3472 INFO Double-clicked Option element successfully.
+2023-11-10 11:01:04.3472 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3472 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3472 INFO Clicked Mode button successfully.
+2023-11-10 11:01:04.3472 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3472 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3472 INFO Clicked number button successfully.
+2023-11-10 11:01:04.3472 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3472 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3472 INFO Clicked number button successfully.
+2023-11-10 11:01:04.3472 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3472 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3472 INFO Clicked Number button successfully.
+2023-11-10 11:01:04.3472 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3472 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3472 INFO Clicked number button successfully.
+2023-11-10 11:01:04.3472 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3472 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Clicked number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Clicked number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Equal button clicked.
+2023-11-10 11:01:04.3603 INFO Clicked Number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Plus button clicked.
+2023-11-10 11:01:04.3603 INFO Clicked Number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Clicked Number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Clicked number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Clicked number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Equal button clicked.
+2023-11-10 11:01:04.3603 INFO Clicked Number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Application 'calcualtor' launched successfully.
+2023-11-10 11:01:04.3603 ERROR Error reading configuration file: Could not find a part of the path 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\Configuration\Config.txt'.
+2023-11-10 11:01:04.3603 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 11:01:04.3603 INFO Double-clicked Option element successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Clicked Mode button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Clicked number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Clicked number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Clicked Number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Clicked number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Clicked number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Clicked number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Equal button clicked.
+2023-11-10 11:01:04.3603 INFO Clicked Number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Plus button clicked.
+2023-11-10 11:01:04.3603 INFO Clicked Number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Clicked number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Clicked number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 INFO Square button clicked.
+2023-11-10 11:01:04.3603 INFO Clicked Number button successfully.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:01:04.3603 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.5838 INFO Application 'calcualtor' launched successfully.
+2023-11-10 11:03:02.6156 ERROR Error reading configuration file: Could not find a part of the path 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\Configuration\Config.txt'.
+2023-11-10 11:03:02.6306 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 11:03:02.6306 INFO Double-clicked Option element successfully.
+2023-11-10 11:03:02.6306 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6306 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6306 INFO Clicked Mode button successfully.
+2023-11-10 11:03:02.6306 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 INFO Clicked number button successfully.
+2023-11-10 11:03:02.6415 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 INFO Clicked number button successfully.
+2023-11-10 11:03:02.6415 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 INFO Clicked Number button successfully.
+2023-11-10 11:03:02.6415 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 INFO Clicked number button successfully.
+2023-11-10 11:03:02.6415 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 INFO Clicked number button successfully.
+2023-11-10 11:03:02.6415 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 INFO Clicked number button successfully.
+2023-11-10 11:03:02.6415 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 INFO Equal button clicked.
+2023-11-10 11:03:02.6415 INFO Clicked Number button successfully.
+2023-11-10 11:03:02.6415 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 INFO Plus button clicked.
+2023-11-10 11:03:02.6415 INFO Clicked Number button successfully.
+2023-11-10 11:03:02.6415 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 INFO Clicked Number button successfully.
+2023-11-10 11:03:02.6415 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 INFO Clicked number button successfully.
+2023-11-10 11:03:02.6415 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 INFO Clicked number button successfully.
+2023-11-10 11:03:02.6415 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 INFO Equal button clicked.
+2023-11-10 11:03:02.6415 INFO Clicked Number button successfully.
+2023-11-10 11:03:02.6415 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 INFO Application 'calcualtor' launched successfully.
+2023-11-10 11:03:02.6415 ERROR Error reading configuration file: Could not find a part of the path 'C:\Users\consani\source\repos\QuestCalculator1\TestProject\Configuration\Config.txt'.
+2023-11-10 11:03:02.6415 ERROR Error launching application 'calcualtor': The path is not of a legal form.
+2023-11-10 11:03:02.6415 INFO Double-clicked Option element successfully.
+2023-11-10 11:03:02.6415 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 ERROR Error retrieving UI element Option: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 INFO Clicked Mode button successfully.
+2023-11-10 11:03:02.6415 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 ERROR Error retrieving UI element Mode: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6415 INFO Clicked number button successfully.
+2023-11-10 11:03:02.6574 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 INFO Clicked number button successfully.
+2023-11-10 11:03:02.6574 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 INFO Clicked Number button successfully.
+2023-11-10 11:03:02.6574 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 INFO Clicked number button successfully.
+2023-11-10 11:03:02.6574 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 INFO Clicked number button successfully.
+2023-11-10 11:03:02.6574 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 INFO Clicked number button successfully.
+2023-11-10 11:03:02.6574 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 INFO Equal button clicked.
+2023-11-10 11:03:02.6574 INFO Clicked Number button successfully.
+2023-11-10 11:03:02.6574 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 INFO Plus button clicked.
+2023-11-10 11:03:02.6574 INFO Clicked Number button successfully.
+2023-11-10 11:03:02.6574 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 INFO Clicked number button successfully.
+2023-11-10 11:03:02.6574 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 INFO Clicked number button successfully.
+2023-11-10 11:03:02.6574 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 INFO Square button clicked.
+2023-11-10 11:03:02.6574 INFO Clicked Number button successfully.
+2023-11-10 11:03:02.6574 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 ERROR Error getting the application window: Object reference not set to an instance of an object.
+2023-11-10 11:03:02.6574 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 11:09:35.4861 INFO Application 'calcualtor' launched successfully.
+2023-11-10 11:09:35.6367 INFO Double-clicked Option element successfully.
+2023-11-10 11:09:36.9249 INFO Clicked Mode button successfully.
+2023-11-10 11:09:37.2125 INFO Clicked number button successfully.
+2023-11-10 11:09:37.4807 INFO Clicked number button successfully.
+2023-11-10 11:09:37.7419 INFO Clicked Number button successfully.
+2023-11-10 11:09:37.9577 INFO Clicked number button successfully.
+2023-11-10 11:09:38.1456 INFO Clicked number button successfully.
+2023-11-10 11:09:38.7307 INFO Clicked number button successfully.
+2023-11-10 11:09:39.3267 INFO Equal button clicked.
+2023-11-10 11:09:39.3267 INFO Clicked Number button successfully.
+2023-11-10 11:09:39.5402 INFO Plus button clicked.
+2023-11-10 11:09:39.5402 INFO Clicked Number button successfully.
+2023-11-10 11:09:40.1609 INFO Clicked Number button successfully.
+2023-11-10 11:09:40.7356 INFO Clicked number button successfully.
+2023-11-10 11:09:40.9511 INFO Clicked number button successfully.
+2023-11-10 11:09:41.1810 INFO Equal button clicked.
+2023-11-10 11:09:41.1810 INFO Clicked Number button successfully.
+2023-11-10 11:09:41.5004 INFO Application 'calcualtor' launched successfully.
+2023-11-10 11:09:41.5233 INFO Double-clicked Option element successfully.
+2023-11-10 11:09:42.4252 INFO Clicked Mode button successfully.
+2023-11-10 11:09:42.7204 INFO Clicked number button successfully.
+2023-11-10 11:09:43.2222 INFO Clicked number button successfully.
+2023-11-10 11:09:43.4262 INFO Clicked Number button successfully.
+2023-11-10 11:09:43.6426 INFO Clicked number button successfully.
+2023-11-10 11:09:43.8572 INFO Clicked number button successfully.
+2023-11-10 11:09:44.4577 INFO Clicked number button successfully.
+2023-11-10 11:09:44.7118 INFO Equal button clicked.
+2023-11-10 11:09:44.7118 INFO Clicked Number button successfully.
+2023-11-10 11:09:45.0103 INFO Plus button clicked.
+2023-11-10 11:09:45.0103 INFO Clicked Number button successfully.
+2023-11-10 11:09:45.6109 INFO Clicked number button successfully.
+2023-11-10 11:09:45.8589 INFO Clicked number button successfully.
+2023-11-10 11:09:46.0944 INFO Square button clicked.
+2023-11-10 11:09:46.0944 INFO Clicked Number button successfully.
+2023-11-10 11:15:38.8261 INFO Application 'calcualtor' launched successfully.
+2023-11-10 11:15:38.9500 INFO Double-clicked Option element successfully.
+2023-11-10 11:15:40.4534 INFO Clicked Mode button successfully.
+2023-11-10 11:15:40.6733 INFO Clicked number button successfully.
+2023-11-10 11:15:40.9077 INFO Clicked number button successfully.
+2023-11-10 11:15:41.0919 INFO Clicked Number button successfully.
+2023-11-10 11:15:41.3149 INFO Clicked number button successfully.
+2023-11-10 11:15:41.5125 INFO Clicked number button successfully.
+2023-11-10 11:15:42.1086 INFO Clicked number button successfully.
+2023-11-10 11:15:42.7148 INFO Equal button clicked.
+2023-11-10 11:15:42.7148 INFO Clicked Number button successfully.
+2023-11-10 11:15:42.9757 INFO Plus button clicked.
+2023-11-10 11:15:42.9757 INFO Clicked Number button successfully.
+2023-11-10 11:15:43.5735 INFO Clicked Number button successfully.
+2023-11-10 11:15:44.1775 INFO Clicked number button successfully.
+2023-11-10 11:15:44.3819 INFO Clicked number button successfully.
+2023-11-10 11:15:44.6299 INFO Equal button clicked.
+2023-11-10 11:15:44.6299 INFO Clicked Number button successfully.
+2023-11-10 11:15:45.0183 INFO Application 'calcualtor' launched successfully.
+2023-11-10 11:15:45.0662 INFO Double-clicked Option element successfully.
+2023-11-10 11:15:46.1168 INFO Clicked Mode button successfully.
+2023-11-10 11:15:46.3318 INFO Clicked number button successfully.
+2023-11-10 11:15:46.7896 INFO Clicked number button successfully.
+2023-11-10 11:15:46.9738 INFO Clicked Number button successfully.
+2023-11-10 11:15:47.2061 INFO Clicked number button successfully.
+2023-11-10 11:15:47.3919 INFO Clicked number button successfully.
+2023-11-10 11:15:47.9980 INFO Clicked number button successfully.
+2023-11-10 11:15:48.5966 INFO Equal button clicked.
+2023-11-10 11:15:48.5966 INFO Clicked Number button successfully.
+2023-11-10 11:15:48.8642 INFO Plus button clicked.
+2023-11-10 11:15:48.8642 INFO Clicked Number button successfully.
+2023-11-10 11:15:49.4728 INFO Clicked number button successfully.
+2023-11-10 11:15:49.6827 INFO Clicked number button successfully.
+2023-11-10 11:15:49.9089 INFO Square button clicked.
+2023-11-10 11:15:49.9089 INFO Clicked Number button successfully.
+2023-11-10 11:28:41.8923 INFO Application 'calcualtor' launched successfully.
+2023-11-10 11:28:42.0423 INFO Double-clicked Option element successfully.
+2023-11-10 11:28:43.3317 INFO Clicked Mode button successfully.
+2023-11-10 11:28:43.6371 INFO Clicked number button successfully.
+2023-11-10 11:28:43.8616 INFO Clicked number button successfully.
+2023-11-10 11:28:44.0735 INFO Clicked Number button successfully.
+2023-11-10 11:28:44.2458 INFO Clicked number button successfully.
+2023-11-10 11:28:44.4285 INFO Clicked number button successfully.
+2023-11-10 11:28:45.0233 INFO Clicked number button successfully.
+2023-11-10 11:28:45.6121 INFO Equal button clicked.
+2023-11-10 11:28:45.6121 INFO Clicked Number button successfully.
+2023-11-10 11:28:45.8154 INFO Plus button clicked.
+2023-11-10 11:28:45.8154 INFO Clicked Number button successfully.
+2023-11-10 11:28:46.4344 INFO Clicked Number button successfully.
+2023-11-10 11:28:47.0099 INFO Clicked number button successfully.
+2023-11-10 11:28:47.2473 INFO Clicked number button successfully.
+2023-11-10 11:28:47.4649 INFO Equal button clicked.
+2023-11-10 11:28:47.4649 INFO Clicked Number button successfully.
+2023-11-10 11:29:38.9757 INFO Application 'calcualtor' launched successfully.
+2023-11-10 11:29:39.1152 INFO Double-clicked Option element successfully.
+2023-11-10 11:29:40.4186 INFO Clicked Mode button successfully.
+2023-11-10 11:29:40.6299 INFO Clicked number button successfully.
+2023-11-10 11:29:40.8754 INFO Clicked number button successfully.
+2023-11-10 11:29:41.1064 INFO Clicked Number button successfully.
+2023-11-10 11:29:41.3676 INFO Clicked number button successfully.
+2023-11-10 11:29:41.5564 INFO Clicked number button successfully.
+2023-11-10 11:29:42.1426 INFO Clicked number button successfully.
+2023-11-10 11:29:42.7322 INFO Equal button clicked.
+2023-11-10 11:29:42.7322 INFO Clicked Number button successfully.
+2023-11-10 11:29:42.9523 INFO Plus button clicked.
+2023-11-10 11:29:42.9523 INFO Clicked Number button successfully.
+2023-11-10 11:29:43.5434 INFO Clicked Number button successfully.
+2023-11-10 11:29:44.1316 INFO Clicked number button successfully.
+2023-11-10 11:29:44.3472 INFO Clicked number button successfully.
+2023-11-10 11:29:44.5525 INFO Equal button clicked.
+2023-11-10 11:29:44.5525 INFO Clicked Number button successfully.
+2023-11-10 11:29:44.8091 INFO Application 'calcualtor' launched successfully.
+2023-11-10 11:29:44.8547 INFO Double-clicked Option element successfully.
+2023-11-10 11:29:45.8191 INFO Clicked Mode button successfully.
+2023-11-10 11:29:46.0531 INFO Clicked number button successfully.
+2023-11-10 11:29:46.5345 INFO Clicked number button successfully.
+2023-11-10 11:29:46.7344 INFO Clicked Number button successfully.
+2023-11-10 11:29:46.9673 INFO Clicked number button successfully.
+2023-11-10 11:29:47.1707 INFO Clicked number button successfully.
+2023-11-10 11:29:47.7612 INFO Clicked number button successfully.
+2023-11-10 11:29:48.3712 INFO Equal button clicked.
+2023-11-10 11:29:48.3712 INFO Clicked Number button successfully.
+2023-11-10 11:29:48.6364 INFO Plus button clicked.
+2023-11-10 11:29:48.6364 INFO Clicked Number button successfully.
+2023-11-10 11:29:49.2398 INFO Clicked number button successfully.
+2023-11-10 11:29:49.4557 INFO Clicked number button successfully.
+2023-11-10 11:29:49.6445 INFO Square button clicked.
+2023-11-10 11:29:49.6445 INFO Clicked Number button successfully.
