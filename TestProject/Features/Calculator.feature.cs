@@ -76,9 +76,9 @@ namespace TestProject.Features
         [NUnit.Framework.TestAttribute()]
         [NUnit.Framework.DescriptionAttribute("Check for result for operation")]
         [NUnit.Framework.CategoryAttribute("CloseAllInstance")]
-        [NUnit.Framework.TestCaseAttribute("Standard", "12", "999", "19", "1030", null)]
-        [NUnit.Framework.TestCaseAttribute("Scientific", "12", "999", "19", "361", null)]
-        public void CheckForResultForOperation(string specificMode, string numb1, string numb2, string numb3, string numb4, string[] exampleTags)
+        [NUnit.Framework.TestCaseAttribute("Standard", "equal", "1030", null)]
+        [NUnit.Framework.TestCaseAttribute("Scientific", "Square", "361", null)]
+        public void CheckForResultForOperation(string specificMode, string operation, string result, string[] exampleTags)
         {
             string[] @__tags = new string[] {
                     "CloseAllInstance"};
@@ -89,10 +89,8 @@ namespace TestProject.Features
             string[] tagsOfScenario = @__tags;
             System.Collections.Specialized.OrderedDictionary argumentsOfScenario = new System.Collections.Specialized.OrderedDictionary();
             argumentsOfScenario.Add("SpecificMode", specificMode);
-            argumentsOfScenario.Add("Numb1", numb1);
-            argumentsOfScenario.Add("numb2", numb2);
-            argumentsOfScenario.Add("numb3", numb3);
-            argumentsOfScenario.Add("numb4", numb4);
+            argumentsOfScenario.Add("Operation", operation);
+            argumentsOfScenario.Add("Result", result);
             TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Check for result for operation", null, tagsOfScenario, argumentsOfScenario, featureTags);
 #line 6
     this.ScenarioInitialize(scenarioInfo);
@@ -105,22 +103,37 @@ namespace TestProject.Features
             {
                 this.ScenarioStart();
 #line 7
- testRunner.Given(": Open the Calculator Application", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+ testRunner.Given("Calculator is Opened", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
 #line hidden
 #line 8
- testRunner.And(string.Format(": Select the Mode \'{0}\'", specificMode), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+ testRunner.When(string.Format(": I Select the Mode \'{0}\'", specificMode), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
 #line hidden
 #line 9
- testRunner.Then(string.Format(": I Enter \'{0}\' \'{1}\' and perform add operation", numb1, numb2), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+ testRunner.Then(": I Input 12", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
 #line hidden
 #line 10
- testRunner.And(": Then I Click M+", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+ testRunner.And(": I perform \'add\' action", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
 #line 11
- testRunner.And(string.Format(": Use square root if its scientific \'{0}\'", numb3), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+ testRunner.And(": I Input 999", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
 #line 12
- testRunner.And(string.Format(": The Result should is \'{0}\'", numb4), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+ testRunner.And(": I perform \'equal\' action", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
+#line 13
+ testRunner.And(": I perform \'StoreinMemory\' action", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
+#line 14
+ testRunner.And(": I perform \'add\' action", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
+#line 15
+ testRunner.And(": I Input 19", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
+#line 16
+ testRunner.And(string.Format(": I perform \'{0}\' action", operation), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
+#line hidden
+#line 17
+ testRunner.And(string.Format(": The Result is \'{0}\'", result), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "And ");
 #line hidden
             }
             this.ScenarioCleanup();

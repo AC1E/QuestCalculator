@@ -13,25 +13,25 @@ namespace Pilot_FrameWork.Utils.Loggers
             public static void Log(string logLevel, string message)
             {
  
-       switch (logLevel)
-       {
-        case "Info":
-            Logger.Info(message);
-            break;
-        case "Error":
-            Logger.Error(message);
-            break;
-        case "Warn":
-            Logger.Warn(message);
-            break;
-        case "Debug":
-            Logger.Debug(message);
-            break;
-       } 
-        }
+                switch (logLevel)
+                {
+                    case "Info":
+                    Logger.Info(message);
+                    break;
+                    case "Error":
+                    Logger.Error(message);
+                    break;
+                    case "Warn":
+                    Logger.Warn(message);
+                    break;
+                    case "Debug":
+                    Logger.Debug(message);
+                    break;
+                } 
+            }
 
             
-        }
-    }
+       }
+}
 
 

@@ -2,19 +2,23 @@
 Feature: Peform Operation On Calculator
 
 
-@CloseAllInstance
+	@CloseAllInstance
     Scenario Outline: Check for result for operation
-	Given : Open the Calculator Application 
-	And   : Select the Mode '<SpecificMode>'
-	Then  : I Enter '<Numb1>' '<numb2>' and perform add operation
-	And   : Then I Click M+
-	And   : Use square root if its scientific '<numb3>'
-	And   : The Result should is '<numb4>'
-
+	Given  Calculator is Opened 
+	When   : I Select the Mode '<SpecificMode>'
+	Then  : I Input 12
+	And   : I perform 'add' action
+	And   : I Input 999
+	And   : I perform 'equal' action
+	And   : I perform 'StoreinMemory' action
+	And   : I perform 'add' action
+	And   : I Input 19
+	And   : I perform '<Operation>' action
+	And   : The Result is '<Result>'
+	
 
 	Examples: 
-				| SpecificMode	| Numb1 | numb2 | numb3 | numb4 |
-				| Standard		|   12  | 999   | 19    | 1030  |
-				|Scientific		|  12   | 999	| 19    | 361   |
-			 
-			 
+				| SpecificMode | Operation | Result |
+				| Standard     | equal     | 1030   |
+				| Scientific   | Square    | 361    |
+	

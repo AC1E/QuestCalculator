@@ -15,7 +15,7 @@ using Pilot_FrameWork.Utils.Loggers;
 namespace Pilot_FrameWork.Utils.Configuration
 { 
          public class Configuration
-           {
+         {
             private static readonly ILogger Logger = LogManager.GetCurrentClassLogger();
             private static string[] configFileLines;
             public static string Path(string appName)
@@ -31,10 +31,9 @@ namespace Pilot_FrameWork.Utils.Configuration
             catch (Exception ex)
             {
                 Nlogger.Log("Error", $"Error reading configuration file:");
-                 return null;
-                
+                return null;   
             }
-        }
+         }
             private static string GetPath(string appName)
             {
                 try

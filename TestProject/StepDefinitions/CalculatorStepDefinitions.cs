@@ -11,61 +11,51 @@ namespace TestProject.StepDefinitions
     public sealed class CalculatorStepDefinitions
     {
         CalculatorForm calculator = new CalculatorForm(SearchCriteria.All, "");
-        string smode;
 
-        [Given(@": Open the Calculator Application")]
-        public void GivenOpenTheCalculatorApplication()
-        {
-            ZApplication.LaunchApplication("calcualtor");
-        }
-
-        [Given(@": Select the Mode '([^']*)'")]
-        public void GivenSelectTheMode(string mode)
-        {
-            smode= mode;    
-            calculator.EnterMode(mode);
-        }
-
-   
-        [Then(@": I Enter '([^']*)' '([^']*)' and perform add operation")]
-        public void ThenIEnterAndPerformAddOperation(string p0, string p1)
-        { 
-
-            calculator.EnterNumber(p0);
-            calculator.EnterPlus();
-            calculator.EnterNumber(p1);
-            calculator.EnterEqual();    
-
-        }
-
-        [Then(@": Then I Click M\+")]
-        public void ThenThenIClickM()
-        {
-            calculator.EnterMPlus();
-        }
-
-        [Then(@": Use square root if its scientific '([^']*)'")]
-        public void ThenUseSquareRootIfItsScientific(string p0)
-        {
-            if (smode == "Scientific")
-            {  
-                calculator.EnterNumber(p0);
-                calculator.EnterSquare(); 
-            }
-            else
+            [Given(@"Calculator is Opened")]
+            public void GivenCalculatorIsOpened()
             {
-                calculator.EnterPlus();
-                calculator.EnterNumber(p0);
-                calculator.EnterEqual();
+                ZApplication.LaunchApplication("calcualtor");
             }
-        }
 
-        [Then(@": The Result should is '([^']*)'")]
-        public void ThenTheResultShouldIs(string p0)
-        {
-            var result = CalculatorForm.GetResult();
-            Assert.AreEqual(p0, result);
-        }
+            [When(@": I Select the Mode '([^']*)'")]
+            public void WhenISelectTheMode(string mode)
+            {
+                calculator.EnterMode(mode);
+            }
+
+            [Then(@": I Input (.*)")]
+            public void ThenIInput(int number)
+            {
+                string numb = number.ToString();
+                calculator.EnterNumber(numb);
+            }
+
+            [Then(@": I perform '(.*)' action")]
+            public void ThenIPerformAction(string action)
+            {
+                switch (action)
+                {
+                    case "add":
+                    calculator.EnterPlus();
+                    break;
+                    case "equal":
+                    calculator.EnterEqual();
+                    break;
+                    case "StoreinMemory":
+                    calculator.EnterMPlus();
+                    break;
+                    case "Square":
+                    calculator.EnterSquare();
+                    break;
+                }
+            }
+            [Then(@": The Result is '(.*)'")]
+            public void ThenTheResultIs(string p0)
+            {
+                var result = CalculatorForm.GetResult();
+                Assert.AreEqual(p0, result);
+            }
 
     }
 }

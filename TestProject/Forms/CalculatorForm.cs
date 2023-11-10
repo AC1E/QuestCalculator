@@ -12,7 +12,6 @@ using NLog;
 
 namespace TestProject.Forms
 {
-    
     public class CalculatorForm : BaseItem
      {
         private static readonly ILogger Logger = LogManager.GetCurrentClassLogger();
@@ -64,12 +63,14 @@ namespace TestProject.Forms
         }
         public void EnterMode(string Mode)
         {
-             ZMenu clickView = new ZMenu(SearchCriteria.ByText("View"), "Option");
-             clickView.DoubleClick();
-             ZMenu clickScientific = new ZMenu(SearchCriteria.ByText(Mode), "Mode");
-             clickScientific.Click();
+            ZMenu ClickView = new ZMenu(SearchCriteria.ByText("View"), "Option");
+            ClickView.ClickMenuItem(Mode);
+            
+            ZMenu clickView = new ZMenu(SearchCriteria.ByText("View"), "Option");
+            clickView.DoubleClick();
+            ZMenu clickScientific = new ZMenu(SearchCriteria.ByText(Mode), "Mode");
+            clickScientific.Click();
         }
-
         public static string GetResult()
         {
             ZLabels appLabel = new ZLabels(SearchCriteria.ByAutomationId("158"), "lsbel");
