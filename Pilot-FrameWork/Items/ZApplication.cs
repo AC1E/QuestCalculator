@@ -6,13 +6,19 @@ using System.Xml;
 using System.IO;
 using NLog;
 using Pilot_FrameWork.Utils.Loggers;
+using Pilot_FrameWork.Base;
 
 namespace Pilot_FrameWork.Items
 {
-    public class ZApplication
+    public class ZApplication :BaseForm
     {
 
         public static Application application;
+
+        public ZApplication(Application application) : base(application)
+        {
+        }
+
         public static void LaunchApplication(string appName)
         {
             try

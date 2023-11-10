@@ -2627,3 +2627,49 @@
 2023-11-10 16:55:04.7693 ERROR Error getting the application window:
 2023-11-10 16:55:04.7693 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
 2023-11-10 16:55:04.7693 INFO Clicked number button successfully.
+2023-11-10 16:55:36.2754 ERROR Error getting the application window:
+2023-11-10 16:55:36.2754 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 16:55:36.2754 INFO Clicked number button successfully.
+2023-11-10 16:56:07.4959 ERROR Error getting the application window:
+2023-11-10 16:56:07.4959 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 16:56:07.4959 INFO Clicked number button successfully.
+2023-11-10 16:56:39.0403 ERROR Error getting the application window:
+2023-11-10 16:56:39.0403 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 16:56:39.0403 INFO Clicked Number button successfully.
+2023-11-10 16:57:10.1778 ERROR Error getting the application window:
+2023-11-10 16:57:10.1778 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 16:57:10.1778 INFO Clicked Number button successfully.
+2023-11-10 16:57:41.2567 ERROR Error getting the application window:
+2023-11-10 16:57:41.2567 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 16:57:41.2567 INFO Clicked Number button successfully.
+2023-11-10 16:58:11.8699 ERROR Error getting the application window:
+2023-11-10 16:58:11.8699 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 16:58:11.8699 INFO Clicked number button successfully.
+2023-11-10 16:58:42.4788 ERROR Error getting the application window:
+2023-11-10 16:58:42.4788 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 16:58:42.4788 INFO Clicked number button successfully.
+2023-11-10 16:59:13.2238 ERROR Error getting the application window:
+2023-11-10 16:59:13.2238 ERROR Error retrieving UI element number: Object reference not set to an instance of an object.
+2023-11-10 16:59:13.2238 INFO Clicked Number button successfully.
+2023-11-10 16:59:44.1769 ERROR Error getting the application window:
+2023-11-10 16:59:44.1769 ERROR Error retrieving UI element Number: Object reference not set to an instance of an object.
+2023-11-10 17:00:15.2860 ERROR Error getting the application window:
+2023-11-10 17:00:15.2860 ERROR Error retrieving UI element lsbel: Object reference not set to an instance of an object.
+2023-11-10 17:00:15.4684 INFO Application 'calcualtor' launched successfully.
+2023-11-10 17:00:15.5152 INFO Clicked Option button successfully.
+2023-11-10 17:00:16.6020 INFO Clicked Mode button successfully.
+2023-11-10 17:00:22.4948 ERROR Error retrieving UI element Mode: Failed to get Name=Scientific
+2023-11-10 17:00:22.4948 INFO Double-clicked Option element successfully.
+2023-11-10 17:00:22.9752 INFO Clicked Mode button successfully.
+2023-11-10 17:00:23.2355 INFO Clicked number button successfully.
+2023-11-10 17:00:23.5580 INFO Clicked number button successfully.
+2023-11-10 17:00:23.8212 INFO Clicked Number button successfully.
+2023-11-10 17:00:24.1093 INFO Clicked number button successfully.
+2023-11-10 17:00:24.3998 INFO Clicked number button successfully.
+2023-11-10 17:00:24.9734 INFO Clicked number button successfully.
+2023-11-10 17:00:25.5742 INFO Clicked Number button successfully.
+2023-11-10 17:00:25.9036 INFO Clicked Number button successfully.
+2023-11-10 17:00:26.4782 INFO Clicked Number button successfully.
+2023-11-10 17:00:27.0663 INFO Clicked number button successfully.
+2023-11-10 17:00:27.2859 INFO Clicked number button successfully.
+2023-11-10 17:00:27.5598 INFO Clicked Number button successfully.
