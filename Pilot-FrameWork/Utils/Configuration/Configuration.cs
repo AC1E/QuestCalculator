@@ -50,7 +50,7 @@ namespace Pilot_FrameWork.Utils.Configuration
                 }
                 catch (Exception ex)
                 {
-                    Nlogger.Log("Error",$"Error getting path for {appName}:");
+                    Nlogger.Log("Error",$"Error getting path for {appName}:{ex.Message}");
                     return null;
                 }
             
@@ -71,7 +71,7 @@ namespace Pilot_FrameWork.Utils.Configuration
                 }
                 catch (Exception ex)
                 {
-                    Nlogger.Log("Error",$"Error getting window name for {appName}");
+                    Nlogger.Log("Error",$"Error getting window name for {appName}{ex.Message}");
                     return null;
                 }
             }

@@ -30,7 +30,7 @@ namespace TestProject.Forms
         }
         public void EnterMPlus()
         {  
-                ButtonPlus.Click(); 
+            ButtonPlus.Click(); 
         }
 
         public void EnterEqual()

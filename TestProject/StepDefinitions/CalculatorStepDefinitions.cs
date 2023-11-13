@@ -4,7 +4,8 @@ using TechTalk.SpecFlow;
 using TestProject.Forms;
 using TestStack.White.UIItems.Finders;
 using Pilot_FrameWork.Base;
-
+using System.Diagnostics;
+using Pilot_FrameWork;
 
 namespace TestProject.StepDefinitions
 {
@@ -12,12 +13,18 @@ namespace TestProject.StepDefinitions
     public sealed class CalculatorStepDefinitions
     {
         CalculatorForm calculator = new CalculatorForm(SearchCriteria.All, "");
+        private readonly ProcessesHelpers processes = new ProcessesHelpers();
         [Given(@"Calculator is Opened")]
         public void GivenCalculatorIsOpened()
         {
-            
-            ZApplication.LaunchApplication("calcualtor");
-            BaseForm.IsWindowOpen("Calculator");
+            if (BaseForm.IsWindowOpen("Calculator"))
+            {
+                processes.KillMultipleInstancesOfProcess("calc1");
+            }
+            else
+            {
+                ZApplication.LaunchApplication("calcualtor");
+            }
 
         }
         [When(@"I Select the Mode '(.*)'")]

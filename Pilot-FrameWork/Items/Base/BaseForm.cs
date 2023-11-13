@@ -13,7 +13,6 @@ namespace Pilot_FrameWork.Base
         {
             var window = ZApplication.GetApplicationWindow(title);
             var bool1 = window != null && window.zWindow.IsCurrentlyActive;
-            //Console.WriteLine(bool1);
             return false;
         }
     }

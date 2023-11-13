@@ -10,7 +10,7 @@ using Pilot_FrameWork.Base;
 
 namespace Pilot_FrameWork.Items
 {
-    public class ZApplication :BaseForm
+    public class ZApplication : BaseForm
     {
 
         public static Application application;
@@ -38,11 +38,25 @@ namespace Pilot_FrameWork.Items
             }
             catch (Exception ex)
             {
-                Nlogger.Log("Error", $"Error getting the application window:");
+                Nlogger.Log("Error", $"Error getting the application window:{ex.Message}");
                 return null;
             }
         }
-    }
 
+        public static void ZCloseApplication()
+        {
+            try
+            {
+                Nlogger.Log("Info", $"Application  Close successfully.");
+                application.Close();
+
+            }
+            catch (Exception ex)
+            {
+                Nlogger.Log("Error", $" Error the Application is not closed:{ex.Message}");
+               
+            }
+        }
+
+    }
 }
-       
