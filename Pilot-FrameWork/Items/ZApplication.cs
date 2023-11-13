@@ -15,10 +15,6 @@ namespace Pilot_FrameWork.Items
 
         public static Application application;
 
-        public ZApplication(Application application) : base(application)
-        {
-        }
-
         public static void LaunchApplication(string appName)
         {
             try
@@ -47,8 +43,6 @@ namespace Pilot_FrameWork.Items
             }
         }
     }
-
-
 
 }
        

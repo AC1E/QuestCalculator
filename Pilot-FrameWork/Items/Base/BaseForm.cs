@@ -2,37 +2,23 @@
 using TestStack.White.UIItems.WindowItems;
 using TestStack.White;
 using Pilot_FrameWork.Utils.Loggers;
+using Pilot_FrameWork.Items;
+using System;
 
 namespace Pilot_FrameWork.Base
 {
     public class BaseForm
     {
-        protected static Application _application;
-      
-        public BaseForm(Application application)
+        public static bool IsWindowOpen(string title)
         {
-            _application = application;
-        }
-        protected Window GetWindow(string title)
-        {
-            try
-            {
-                Nlogger.Log("Info",$"Retrieving window: {title}");
-                return _application.GetWindow(title);
-            }
-            catch (AutomationException ex)
-            {
-                Nlogger.Log("Error",$"Error while getting the window '{title}'");
-            }
-            return null;
-        }
-        protected bool IsWindowOpen(string title)
-        {
-            Window window = GetWindow(title);
-            return window != null && window.IsCurrentlyActive;
+            var window = ZApplication.GetApplicationWindow(title);
+            var bool1 = window != null && window.zWindow.IsCurrentlyActive;
+            //Console.WriteLine(bool1);
+            return false;
         }
     }
 }
 
-   
+
+
 
